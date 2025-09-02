@@ -1,0 +1,680 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Dem_1,Q211.1,Q211.1_1_TEXT,Q211.1_2_TEXT,Q211.1_4_TEXT,Q211.1_5_TEXT,Q211.1_6_TEXT,Q211.1_8_TEXT,Q211.1_7_TEXT,Q211.2_1,Q211.2_1_TEXT,Q211.2_2,Q211.2_2_TEXT,Q211.2_3,Q211.2_3_TEXT,Q211.2_4,Q211.2_4_TEXT,Q211.2_5,Q211.2_5_TEXT,Q211.2_6,Q211.2_6_TEXT,Q211.2_7,Q211.2_7_TEXT,Q20.1,Q20.1_1_TEXT,Q20.1_2_TEXT,Q20.1_4_TEXT,Q20.1_5_TEXT,Q20.1_6_TEXT,Q20.1_8_TEXT,Q20.1_7_TEXT,Q20.2_1,Q20.2_1_TEXT,Q20.2_2,Q20.2_2_TEXT,Q20.2_3,Q20.2_3_TEXT,Q20.2_4,Q20.2_4_TEXT,Q20.2_5,Q20.2_5_TEXT,Q20.2_6,Q20.2_6_TEXT,Q20.2_7,Q20.2_7_TEXT,Q287.1,Q287.1_1_TEXT,Q287.1_2_TEXT,Q287.1_4_TEXT,Q287.1_5_TEXT,Q287.1_6_TEXT,Q287.1_8_TEXT,Q287.1_7_TEXT,Q287.2_1,Q287.2_1_TEXT,Q287.2_2,Q287.2_2_TEXT,Q287.2_3,Q287.2_3_TEXT,Q287.2_4,Q287.2_4_TEXT,Q287.2_5,Q287.2_5_TEXT,Q287.2_6,Q287.2_6_TEXT,Q287.2_7,Q287.2_7_TEXT,Q142_1,Q142_1_TEXT,Q142_2,Q142_2_TEXT,'PROLIFIC_PID'
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Do you agree with all the statements above?,What is your Prolific ID,"Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - Selected Choice","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+Usecases of AI in the company: AI-driven project risk analysis, Chatbots for client service support, Predictive resource allocation for consulting teams. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1]","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1] - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2]","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2] - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4]","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4] - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5]","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5] - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6]","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6] - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8]","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8] - Text","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7]","Company: Accenture
+
+Industry: Information Technology Services
+
+Description: Accenture provides digital transformation and consulting services to businesses and governments globally.
+
+
+
+Mission: ""Deliver on the promise of technology and human ingenuity.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7] - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - Selected Choice","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+​​​​​​Usecases of AI in the company: AI-driven inventory management, Personalized shopping recommendations, Fraud detection in transactions. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1]","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1] - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2]","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2] - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4]","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4] - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5]","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5] - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6]","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6] - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8]","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8] - Text","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7]","Company: Costco Wholesale
+
+Industry: General Merchandisers
+
+Description: Costco operates membership warehouses and e-commerce sites offering a wide range of products at discounted prices.
+
+
+
+Mission: ""To continually provide our members with quality goods and services at the lowest possible prices.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7] - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - Selected Choice","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+Usecases of AI in the company: AI for fraud detection, AI-driven claims processing, Personalized risk assessment. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1]","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1] - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2]","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2] - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4]","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4] - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5]","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5] - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6]","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6] - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8]","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8] - Text","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7]","Company: Tokio Marine Holdings
+
+Industry: Insurance: Property and Casualty (Stock)
+
+Description: Tokio Marine Holdings is a multinational insurance holding company operating in property, casualty, life, and overseas insurance segments.
+
+
+
+Mission: ""To protect our customers and society in times of need.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7] - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot. - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain. - Text",'PROLIFIC_PID'
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1218504057""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID64""}","{""ImportId"":""QID64_1_TEXT""}","{""ImportId"":""QID64_2_TEXT""}","{""ImportId"":""QID64_4_TEXT""}","{""ImportId"":""QID64_5_TEXT""}","{""ImportId"":""QID64_6_TEXT""}","{""ImportId"":""QID64_8_TEXT""}","{""ImportId"":""QID64_7_TEXT""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID132_1_TEXT""}","{""ImportId"":""QID132_2""}","{""ImportId"":""QID132_2_TEXT""}","{""ImportId"":""QID132_3""}","{""ImportId"":""QID132_3_TEXT""}","{""ImportId"":""QID132_4""}","{""ImportId"":""QID132_4_TEXT""}","{""ImportId"":""QID132_5""}","{""ImportId"":""QID132_5_TEXT""}","{""ImportId"":""QID132_6""}","{""ImportId"":""QID132_6_TEXT""}","{""ImportId"":""QID132_7""}","{""ImportId"":""QID132_7_TEXT""}","{""ImportId"":""QID166""}","{""ImportId"":""QID166_1_TEXT""}","{""ImportId"":""QID166_2_TEXT""}","{""ImportId"":""QID166_4_TEXT""}","{""ImportId"":""QID166_5_TEXT""}","{""ImportId"":""QID166_6_TEXT""}","{""ImportId"":""QID166_8_TEXT""}","{""ImportId"":""QID166_7_TEXT""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID168_1_TEXT""}","{""ImportId"":""QID168_2""}","{""ImportId"":""QID168_2_TEXT""}","{""ImportId"":""QID168_3""}","{""ImportId"":""QID168_3_TEXT""}","{""ImportId"":""QID168_4""}","{""ImportId"":""QID168_4_TEXT""}","{""ImportId"":""QID168_5""}","{""ImportId"":""QID168_5_TEXT""}","{""ImportId"":""QID168_6""}","{""ImportId"":""QID168_6_TEXT""}","{""ImportId"":""QID168_7""}","{""ImportId"":""QID168_7_TEXT""}","{""ImportId"":""QID170""}","{""ImportId"":""QID170_1_TEXT""}","{""ImportId"":""QID170_2_TEXT""}","{""ImportId"":""QID170_4_TEXT""}","{""ImportId"":""QID170_5_TEXT""}","{""ImportId"":""QID170_6_TEXT""}","{""ImportId"":""QID170_8_TEXT""}","{""ImportId"":""QID170_7_TEXT""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID172_1_TEXT""}","{""ImportId"":""QID172_2""}","{""ImportId"":""QID172_2_TEXT""}","{""ImportId"":""QID172_3""}","{""ImportId"":""QID172_3_TEXT""}","{""ImportId"":""QID172_4""}","{""ImportId"":""QID172_4_TEXT""}","{""ImportId"":""QID172_5""}","{""ImportId"":""QID172_5_TEXT""}","{""ImportId"":""QID172_6""}","{""ImportId"":""QID172_6_TEXT""}","{""ImportId"":""QID172_7""}","{""ImportId"":""QID172_7_TEXT""}","{""ImportId"":""QID142_58""}","{""ImportId"":""QID142_58_TEXT""}","{""ImportId"":""QID142_61""}","{""ImportId"":""QID142_61_TEXT""}","{""ImportId"":""'PROLIFIC_PID'""}"
+2025-08-05 09:25:08,2025-08-05 10:36:29,IP Address,81.135.106.212,100,4280,True,2025-08-05 10:36:29,R_831xeAQ38gprt3H,,,,,52.5329,-1.5791,anonymous,EN,Yes,68123a73ba06c472ccd5edb8,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.","unfair work loads for an unbiased group by the AI.
+Internal friction and squabbles may occur due to unintentional favouritism.","miscommunication risk.
+Contract misunderstandings may occur.","Sensitive data can be exposed.
+",Data could be exposed if the system gets compromised by external attacks.,Overdependence on AI generated risk prediction.,,,Yes,The unintentional favouritism is the opposite of human ingenuity and undermines collaboration among people.,Yes,Misinformation may lead to distrust on the promise of technology.,Yes,Client data may be exposed and it directly clashes with trust.,Yes,Data breaches crush credibility of the company.,Yes,Overdependence on AI may lead to the ignoring of human intuition that's important.,,,,,"Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.",,,Identity theft and financial harm can occur if data is exposed.,Unethical tracking of customers violates privacy.,,"AI replaces creativity, labor and local wisdom",,,,,,Yes,The company's promise of secure shopping is broken if privacy is violated.,Yes,Malicious AI harms the customer experience and threatens the company's values,,,No,,,,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",AI can make fast yet baised decisions.,False misleading information can lead to confusion,"AI might leak sensitive client info.
+Weak security can be exploited by attackers.",Using AI for targeted manipulation. eg. hacking.,People stop critically thinking and making independent choices.,,When AI acts in ways that don't match human values it is dangerous.,Yes,The company promises to protect everyone and biased AI violated that promise.,Yes,"If the company relies on false info, it cannot  make accurate decisions and customers may be denied help when they need it.",Yes,A company cannot promise to protect people if it's leaving their personal info vulnerable.,Yes,Anything that weaponises AI threatens customer safety which contradicts Tokio Marine's promise to protect.,Yes,Blind trust in AI dampens independence of decision making.,,,Yes,The company demands protection and if the AI cannot reflect human values then it can potentially cause more harm than good.,No,AI chatbot,No,AI supply chain.,
+2025-08-05 19:21:38,2025-08-05 20:51:42,IP Address,82.132.245.180,100,5404,True,2025-08-05 20:51:43,R_2fVKgTn7CTsdNOV,,,,,52.4867,-1.8989,anonymous,EN,Yes,67d1812e25158f41a334bede,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,"Chatbots may generate inaccurate consulting advice or business recommendations based on incomplete or outdated training data. 
+AI-driven project risk analysis could produce misleading risk assessments that appear authoritative but contain fundamental analytical errors. 
+Automated report generation systems may create convincing but factually incorrect business intelligence or market analysis documents. 
+AI systems may perpetuate outdated business practices or strategies by being trained on historical data that no longer reflects current market realities.","AI-driven project risk analysis systems may inadvertently expose confidential client data or proprietary business strategies when analysing sensitive project information across multiple clients. 
+Chatbots providing client service support could be manipulated through adversarial inputs to leak sensitive client information or internal company data. 
+Predictive resource allocation systems may create privacy vulnerabilities by inferring sensitive employee performance data or personal information from work patterns. 
+AI systems processing consulting data across global clients may be vulnerable to cyberattacks that could compromise multiple organizations' sensitive information simultaneously.",,,"AI-driven consulting services may accelerate job displacement in traditional consulting roles, reducing opportunities for entry-level consultants and human expertise development. 
+Predictive resource allocation could create algorithmic bias in employee assignments and project selections, potentially disadvantaging certain demographic groups. 
+Automated consulting recommendations may devalue human judgment and cultural understanding in business decision-making. 
+Large-scale AI deployment in consulting may increase the digital divide between organizations that can afford AI-enhanced services and those that cannot.","AI-driven project risk analysis may fail to account for unique client contexts or emerging market conditions, leading to inaccurate risk assessments and poor business decisions. 
+Chatbots may provide incorrect technical advice or misinterpret complex client queries, resulting in flawed consulting recommendations. 
+Predictive resource allocation systems may exhibit unpredictable behaviour during high-demand periods, leading to project delays or resource misallocation. 
+AI systems may develop over-reliance patterns where human consultants lose critical analytical skills and decision-making capabilities.",,,Yes,"Delivering inaccurate consulting advice or misleading business intelligence directly undermines Accenture's promise to deliver reliable technology solutions and human expertise. When AI systems generate incorrect recommendations or outdated strategies, they fail to fulfil the core mission of providing trustworthy technological and consulting value to clients, damaging both the promise of technology and the application of human ingenuity.",Yes,"Privacy breaches and security vulnerabilities fundamentally compromise Accenture's ability to deliver on the promise of technology. When AI systems expose confidential client data or create security risks, they violate the trust that clients place in Accenture's technological capabilities. This directly conflicts with delivering reliable, secure technology solutions and represents a failure of both technological implementation and human oversight in system design.",,,,,Yes,"Accelerating job displacement and reducing opportunities for human expertise development conflicts with the ""human ingenuity"" component of the mission. While technology should enhance human capabilities, creating systems that devalue human judgment or increase inequality undermines the balanced promise of combining technology with human insight that Accenture's mission emphasizes.",Yes,"System failures, inaccurate risk assessments, and unpredictable AI behaviour directly contradict delivering on the promise of technology. When AI systems provide flawed consulting recommendations or cause human consultants to lose critical skills, they fail to deliver reliable technological solutions and diminish rather than enhance human ingenuity, conflicting with both core elements of the mission.","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","Personalized shopping recommendations may systematically favour certain demographic groups while providing inferior suggestions to others based on historical purchasing data. 
+AI fraud detection systems may exhibit bias by flagging transactions from certain demographic groups, geographic areas, or socioeconomic backgrounds as higher risk. 
+Inventory management AI may create unequal product availability across different warehouse locations, disadvantaging communities based on demographic composition. 
+Recommendation algorithms may perpetuate stereotypes by suggesting products based on perceived demographic characteristics rather than individual preferences.",,"AI-driven inventory management systems may expose sensitive supplier information, pricing strategies, or business intelligence when analysing purchase patterns across warehouses. 
+Personalized shopping recommendation engines could inadvertently leak customer purchase histories or infer private information about health conditions, financial status, or personal preferences. 
+Fraud detection systems processing transaction data may create vulnerabilities by storing and analysing large volumes of customer payment information and shopping behaviours. 
+AI systems managing e-commerce platforms may be targeted by cyberattacks seeking to steal customer personal data, payment information, and membership details across multiple locations.","Fraudsters could manipulate AI fraud detection systems using adversarial techniques to process fraudulent transactions or abuse return policies. 
+Malicious actors could exploit personalized recommendation systems to manipulate customer purchasing decisions for competitive advantage or financial gain. 
+Cybercriminals could target AI inventory management systems to disrupt supply chains, steal proprietary sourcing information, or manipulate pricing data. 
+Bad actors could launch coordinated attacks on AI systems to steal customer membership data, payment information, and shopping patterns for identity theft or competitive intelligence.",,,"AI-driven inventory management may fail during peak shopping periods or supply chain disruptions, leading to stockouts of essential products or overstock of perishables. 
+Fraud detection systems may generate false positives that incorrectly flag legitimate customer transactions, causing embarrassment and delays at checkout. 
+Personalized recommendation algorithms may exhibit unpredictable behaviour, suggesting inappropriate products or failing to account for seasonal demand changes. 
+AI systems may develop over-reliance patterns where human employees lose critical inventory management and customer service skills, reducing operational flexibility.",Yes,"Discriminatory AI systems that provide unequal product recommendations, create biased fraud detection, or cause unequal product availability across different warehouse locations directly conflict with providing quality goods and services to all members. When certain demographic groups receive inferior service or face systematic bias, this violates the promise to continually provide quality goods and services to the membership as a whole.",,,Yes,"Privacy breaches and security vulnerabilities undermine member trust and compromise the quality of service that Costco promises. When AI systems expose sensitive customer information or create security risks, they damage the member experience and violate the implicit promise of safe, reliable service. Members cannot receive quality service if their personal data and shopping experiences are compromised.",Yes,"Successful exploitation by fraudsters and cybercriminals directly threatens Costco's ability to maintain the lowest possible prices for members. When malicious actors manipulate systems to commit fraud or steal data, these costs are ultimately passed on to members through higher prices or reduced service quality. This undermines both the cost efficiency and service quality that the mission promises.",,,,,Yes,"AI system failures that cause stockouts, checkout delays, or inappropriate recommendations directly compromise the quality of goods and services provided to members. When inventory management fails during peak periods or fraud detection creates embarrassing false positives, this reduces service quality. Additionally, operational inefficiencies from AI failures can increase costs, threatening the promise of lowest possible prices.","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","Personalized risk assessment AI may systematically discriminate against protected groups by using proxy variables that correlate with race, gender, age, or disability status. 
+AI fraud detection systems may exhibit bias by flagging certain demographic groups as higher fraud risks based on historical data patterns. 
+Claims processing AI may treat customers unequally based on socioeconomic factors, language barriers, or cultural differences in communication styles. 
+Risk assessment algorithms may perpetuate historical insurance redlining practices by using location or demographic data as proxies for discriminatory decision-making.",,"AI fraud detection systems may inadvertently expose sensitive customer financial information or personal data when analysing patterns across multiple claims and policies. 
+Personalized risk assessment algorithms could infer private health conditions, lifestyle choices, or personal circumstances from seemingly innocuous data inputs. 
+AI claims processing may create security vulnerabilities by storing and analysing large volumes of sensitive customer data in centralized systems vulnerable to breaches. 
+Cross-segment AI analysis across property, casualty, life, and overseas operations may create privacy risks by combining personal data in ways customers did not consent to.","AI fraud detection systems could be manipulated by sophisticated fraudsters using adversarial attacks to bypass detection algorithms and successfully process fraudulent claims. 
+Personalized risk assessment AI could be exploited by bad actors who manipulate input data to obtain lower insurance premiums while concealing actual risk factors. 
+AI-driven claims processing systems may be targeted by organized fraud rings who reverse-engineer the algorithms to create fake claims that appear legitimate. 
+Cybercriminals could launch coordinated attacks on AI systems to steal sensitive customer data, policy information, and financial records across multiple insurance segments.",,,"AI fraud detection may generate false positives that incorrectly flag legitimate claims as fraudulent, causing customer distress and delaying rightful claim payments. 
+Personalized risk assessment systems may exhibit bias against certain demographic groups, leading to unfair pricing or coverage denials. 
+AI-driven claims processing may fail during high-volume periods like natural disasters, creating delays when customers most need support. 
+AI systems may develop overconfidence in their predictions, leading to poor risk assessment decisions that threaten the company's financial stability.",Yes,"Systematic discrimination against protected groups directly contradicts the mission to protect customers and society. When AI systems unfairly deny coverage, charge discriminatory premiums, or perpetuate historical redlining practices, they fail to provide equal protection to all customers and harm society by reinforcing inequality. This fundamentally conflicts with the inclusive protection that the mission promises.",,,Yes,"Privacy breaches and security vulnerabilities undermine customer trust and expose them to harm rather than protecting them. When AI systems inadvertently leak sensitive personal information or create security risks through data combination across insurance segments, they compromise the very customers Tokio Marine pledges to protect. This violates the fundamental promise of protection and care.",Yes,"When malicious actors successfully exploit AI systems to commit fraud or steal customer data, it directly undermines Tokio Marine's ability to protect customers and society. Successful adversarial attacks on fraud detection or data breaches expose customers to financial harm and identity theft, which is the opposite of protection during times of need.",,,,,Yes,"AI system failures that incorrectly flag legitimate claims or fail during disasters directly conflict with protecting customers in times of need. When customers face emergencies like natural disasters or accidents and AI systems delay rightful claims or exhibit bias in coverage decisions, this represents a fundamental failure to provide protection when customers are most vulnerable and need support the most.",No,AI chatbot,No,AI supply chain,
+2025-08-09 11:48:51,2025-08-09 12:33:12,IP Address,86.136.107.29,100,2661,True,2025-08-09 12:33:13,R_87lfRpS4bmVHA7B,,,,,50.4788,-3.5446,anonymous,EN,Yes,670ff7a65beb0c8e83fe3fa3,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI-driven project risk analysis might embed biases from historical project data, leading to unfair prioritization or misallocation of resources. Chatbots for client service support could generate or perpetuate biased or inappropriate responses, harming client relations. Predictive resource allocation could misrepresent or disadvantage certain teams or demographics based on flawed data",,,,,,"I think AI systems may misinterpret complex project variables, causing incorrect risk assessments that affect decision-making. Chatbots might fail to understand nuanced client queries, leading to inadequate support. Predictive resource allocation could lack transparency, making it difficult to verify or correct mistakes, reducing trust and accountability",No,"While biases in AI could affect fairness, these risks do not directly conflict with Accenture’s mission to deliver technology and human ingenuity. Instead, they highlight areas to improve AI’s alignment with ethical standards, which supports rather than opposes the mission",,,,,,,,,,,Yes,"Failures in AI risk analysis or support systems undermine the promise of reliable technology and human ingenuity. Incorrect decisions or poor support reduce trust in Accenture’s services, conflicting with their commitment to deliver effective and dependable solutions","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","In this case I would say that AI algorithms used in personalized risk assessment may inadvertently incorporate biases from historical data, leading to discriminatory practices against certain groups based on age, gender, or socioeconomic status. The lack of transparency in AI decision-making processes can result in customers being unfairly treated without understanding the rationale behind decisions. AI systems might perpetuate existing stereotypes or biases present in training data, leading to unequal performance across different demographic group",,,,,,"AI systems may fail to account for unique or complex cases in claims processing, leading to incorrect decisions or delays. The lack of interpretability in AI decision-making processes could make it difficult to identify and rectify errors, affecting accountability. Over-reliance on AI could result in the overlooking of critical human judgment, especially in exceptional or ambiguous situations",Yes,Discriminatory AI practices conflict with Costco’s mission to provide quality goods and services fairly to all members. Unfair treatment undermines customer trust and service quality,,,,,,,,,,,Yes,"Failures in AI decision-making can lead to poor service or incorrect processing, which contradicts Costco’s mission to deliver quality goods and services reliably","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI algorithms used in personalized risk assessment may inadvertently incorporate biases from historical data, leading to discriminatory practices against certain groups based on age, gender, or socioeconomic status. The lack of transparency in AI decision-making processes can result in customers being unfairly treated without understanding the rationale behind decisions. AI systems might perpetuate existing stereotypes or biases present in training data, leading to unequal performance across different demographic groups","content in customer communications might include inaccuracies or misleading information, leading to misunderstandings or mistrust among clients. The automation of claims processing could result in the dissemination of incorrect claim statuses or outcomes, causing confusion and dissatisfaction. AI systems might inadvertently spread false information through automated responses or recommendations, affecting the company's reputation","the integration of AI in claims processing involves handling sensitive personal data, raising concerns about potential breaches and unauthorized access. AI systems might inadvertently infer additional personal information from available data, leading to privacy violations. Insufficient security measures could expose AI systems to attacks, compromising the integrity and confidentiality of customer information","cyberattacks targeting AI systems could manipulate fraud detection algorithms, allowing fraudulent claims to be processed or legitimate claims to be unjustly denied. The exploitation of AI systems by malicious actors could lead to the spread of disinformation, affecting public trust in the insurance industry. AI-driven systems might be used to conduct surveillance on customers, infringing on privacy rights and leading to potential misuse of personal data","in this case, customers might become overly reliant on AI-driven interfaces for claims processing, leading to frustration if the system fails to understand nuanced situations or customer emotions. The complexity of AI systems could result in users feeling a loss of control or agency, especially if they cannot easily escalate issues to human representatives. Inadequate design of AI interfaces might lead to user errors, particularly among less tech-savvy individuals, affecting their experience and satisfaction","so the implementation of AI-driven claims processing may lead to job displacement for claims adjusters and support staff, potentially reducing employment opportunities in the insurance sector. Over-reliance on AI for risk assessment could result in a lack of human oversight, leading to systemic biases that may affect certain demographic groups unfairly. The centralization of AI technologies in large corporations like Tokio Marine could exacerbate power imbalances, concentrating decision-making authority and data control within a few entities. The environmental impact of maintaining extensive AI systems, including energy consumption and electronic waste, may contribute to ecological degradation","AI systems may fail to account for unique or complex cases in claims processing, leading to incorrect decisions or delays. The lack of interpretability in AI decision-making processes could make it difficult to identify and rectify errors, affecting accountability. Over-reliance on AI could result in the overlooking of critical human judgment, especially in exceptional or ambiguous situations",Yes,"Biased AI outcomes and lack of transparency in decisions can lead to unfair treatment of customers, which conflicts with the mission to protect all customers fairly and without discrimination",Yes,I would say that inaccurate or misleading information in customer communications risks damaging client trust and could hinder the company’s ability to protect customers effectively,Yes,Potential data breaches or privacy violations directly conflict with the mission to protect customers by compromising their sensitive information,Yes,"Cyberattacks and misuse of AI systems threaten the integrity of insurance processes and public trust, opposing the company’s mission to protect society and customers",Yes,"Customers losing control or feeling frustrated when interacting with AI systems challenges the mission of protecting customers, as it can reduce trust and satisfaction in the company’s services",Yes,"Job displacement and reduced employment opportunities conflict with Tokio Marine’s mission to protect society, as this may harm the economic well-being of communities. Power centralisation and environmental impacts undermine societal protection and sustainability",Yes,"Failures in AI decision-making or over-reliance on AI at the expense of human judgement could result in harm or unfair outcomes for customers, conflicting with the company’s protective mission",No,"So the use case of AI chatbot is designed to assist users, and although risks exist, they do not directly conflict with the mission ""We aim to check your attention."" The risk is more about information quality than the core mission focus",No," AI supply chain use case involves managing processes rather than public influence or surveillance. Therefore, these risks do not conflict with the mission since the mission’s focus is on user attention, not broader societal impacts",

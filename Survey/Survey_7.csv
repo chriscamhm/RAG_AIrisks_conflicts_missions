@@ -1,0 +1,689 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Dem_1,Q134.1,Q134.1_1_TEXT,Q134.1_2_TEXT,Q134.1_4_TEXT,Q134.1_5_TEXT,Q134.1_6_TEXT,Q134.1_8_TEXT,Q134.1_7_TEXT,Q134.2_1,Q134.2_1_TEXT,Q134.2_2,Q134.2_2_TEXT,Q134.2_3,Q134.2_3_TEXT,Q134.2_4,Q134.2_4_TEXT,Q134.2_5,Q134.2_5_TEXT,Q134.2_6,Q134.2_6_TEXT,Q134.2_7,Q134.2_7_TEXT,Q340.1,Q340.1_1_TEXT,Q340.1_2_TEXT,Q340.1_4_TEXT,Q340.1_5_TEXT,Q340.1_6_TEXT,Q340.1_8_TEXT,Q340.1_7_TEXT,Q340.2_1,Q340.2_1_TEXT,Q340.2_2,Q340.2_2_TEXT,Q340.2_3,Q340.2_3_TEXT,Q340.2_4,Q340.2_4_TEXT,Q340.2_5,Q340.2_5_TEXT,Q340.2_6,Q340.2_6_TEXT,Q340.2_7,Q340.2_7_TEXT,Q160.1,Q160.1_1_TEXT,Q160.1_2_TEXT,Q160.1_4_TEXT,Q160.1_5_TEXT,Q160.1_6_TEXT,Q160.1_8_TEXT,Q160.1_7_TEXT,Q160.2_1,Q160.2_1_TEXT,Q160.2_2,Q160.2_2_TEXT,Q160.2_3,Q160.2_3_TEXT,Q160.2_4,Q160.2_4_TEXT,Q160.2_5,Q160.2_5_TEXT,Q160.2_6,Q160.2_6_TEXT,Q160.2_7,Q160.2_7_TEXT,Q142_1,Q142_1_TEXT,Q142_2,Q142_2_TEXT,'PROLIFIC_PID'
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Do you agree with all the statements above?,What is your Prolific ID,"Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - Selected Choice","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery​​​​​​​
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+Usecases of AI in the company: AI routes packages for minimized delivery times, Predicts supply chain disruptions, Automates customs clearance processing - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1]","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1] - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2]","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2] - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4]","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4] - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5]","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5] - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6]","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6] - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8]","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8] - Text","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7]","Company: DHL Group
+
+Industry: Mail, Package and Freight Delivery
+
+Description: DHL Group provides global logistic networks, transporting letters, parcels, and goods across borders.​​​​​​​
+
+
+
+Mission: ""Connecting people. Improving lives.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7] - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - Selected Choice","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction​​​​​​​
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+​​​​​​Usecases of AI in the company: AI for predictive maintenance of equipment, AI optimizes construction schedules, AI enhances safety on job sites - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1]","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1] - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2]","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2] - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4]","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4] - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5]","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5] - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6]","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6] - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8]","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8] - Text","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7]","Company: Susun Construction Group
+
+Industry: Engineering and Construction
+
+Description: Susun Construction Group builds large-scale infrastructure projects, including highways, bridges, and seaports.
+
+
+
+Mission: ""Dedicated to national honour and ethnic dignity.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7] - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - Selected Choice","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense​​​​​​​
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+Usecases of AI in the company: AI for predictive maintenance of military vehicles, AI-enhanced target recognition systems, AI-driven logistics optimization for defense operations. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1]","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1] - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2]","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2] - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4]","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4] - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5]","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5] - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6]","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6] - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8]","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8] - Text","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7]","Company: China North Industries Group
+
+Industry: Aerospace and Defense
+
+Description: China North Industries Group designs, manufactures, and sells defense products and equipment.​​​​​​​
+
+
+
+Mission: ""Serving defense security of the nation.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7] - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot. - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain. - Text",'PROLIFIC_PID'
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1218504057""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID64""}","{""ImportId"":""QID64_1_TEXT""}","{""ImportId"":""QID64_2_TEXT""}","{""ImportId"":""QID64_4_TEXT""}","{""ImportId"":""QID64_5_TEXT""}","{""ImportId"":""QID64_6_TEXT""}","{""ImportId"":""QID64_8_TEXT""}","{""ImportId"":""QID64_7_TEXT""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID132_1_TEXT""}","{""ImportId"":""QID132_2""}","{""ImportId"":""QID132_2_TEXT""}","{""ImportId"":""QID132_3""}","{""ImportId"":""QID132_3_TEXT""}","{""ImportId"":""QID132_4""}","{""ImportId"":""QID132_4_TEXT""}","{""ImportId"":""QID132_5""}","{""ImportId"":""QID132_5_TEXT""}","{""ImportId"":""QID132_6""}","{""ImportId"":""QID132_6_TEXT""}","{""ImportId"":""QID132_7""}","{""ImportId"":""QID132_7_TEXT""}","{""ImportId"":""QID166""}","{""ImportId"":""QID166_1_TEXT""}","{""ImportId"":""QID166_2_TEXT""}","{""ImportId"":""QID166_4_TEXT""}","{""ImportId"":""QID166_5_TEXT""}","{""ImportId"":""QID166_6_TEXT""}","{""ImportId"":""QID166_8_TEXT""}","{""ImportId"":""QID166_7_TEXT""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID168_1_TEXT""}","{""ImportId"":""QID168_2""}","{""ImportId"":""QID168_2_TEXT""}","{""ImportId"":""QID168_3""}","{""ImportId"":""QID168_3_TEXT""}","{""ImportId"":""QID168_4""}","{""ImportId"":""QID168_4_TEXT""}","{""ImportId"":""QID168_5""}","{""ImportId"":""QID168_5_TEXT""}","{""ImportId"":""QID168_6""}","{""ImportId"":""QID168_6_TEXT""}","{""ImportId"":""QID168_7""}","{""ImportId"":""QID168_7_TEXT""}","{""ImportId"":""QID170""}","{""ImportId"":""QID170_1_TEXT""}","{""ImportId"":""QID170_2_TEXT""}","{""ImportId"":""QID170_4_TEXT""}","{""ImportId"":""QID170_5_TEXT""}","{""ImportId"":""QID170_6_TEXT""}","{""ImportId"":""QID170_8_TEXT""}","{""ImportId"":""QID170_7_TEXT""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID172_1_TEXT""}","{""ImportId"":""QID172_2""}","{""ImportId"":""QID172_2_TEXT""}","{""ImportId"":""QID172_3""}","{""ImportId"":""QID172_3_TEXT""}","{""ImportId"":""QID172_4""}","{""ImportId"":""QID172_4_TEXT""}","{""ImportId"":""QID172_5""}","{""ImportId"":""QID172_5_TEXT""}","{""ImportId"":""QID172_6""}","{""ImportId"":""QID172_6_TEXT""}","{""ImportId"":""QID172_7""}","{""ImportId"":""QID172_7_TEXT""}","{""ImportId"":""QID142_58""}","{""ImportId"":""QID142_58_TEXT""}","{""ImportId"":""QID142_61""}","{""ImportId"":""QID142_61_TEXT""}","{""ImportId"":""'PROLIFIC_PID'""}"
+2025-08-05 09:29:00,2025-08-05 09:44:32,IP Address,80.43.74.220,100,931,True,2025-08-05 09:44:32,R_2JLfEb4HEcV0ORT,,,,,51.5327,-0.0996,anonymous,EN,Yes,673a2e12fc7b7863f7d57771,"Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,"AI systems processing customs clearance expose sensitive personal or commercial data to unauthorized access or data breaches.
+
+Malicious actors exploit vulnerabilities in DHL’s predictive supply chain AI models to infer confidential client shipment patterns.
+
+Hacked routing algorithms could be used to reroute high-value packages to fraudulent delivery addresses.
+
+Predictive systems trained on customer and vendor data may unintentionally leak identifiable patterns that violate GDPR or other privacy laws.",,,,"AI misjudges optimal delivery routes due to outdated or biased training data, leading to significant delays in package delivery.
+
+Prediction models for supply chain disruptions fail to account for rare but impactful events (e.g., pandemics, geopolitical instability), resulting in unprepared logistics operations.
+
+Automated customs clearance AI misclassifies items, causing legal violations or shipment seizures at borders.
+
+Systemic errors in routing AI could overload certain delivery hubs, leading to operational breakdowns and unmet service-level agreements (SLAs).
+",,,,,Yes," Breaches of personal or commercial data compromise trust and safety, hindering DHL’s ability to “connect people” securely and undermining the notion of “improving lives” through responsible service. Malicious actors exploit vulnerabilities in DHL’s predictive supply chain AI models to infer confidential client shipment patterns.",,,,,,,Yes," Delivery delays reduce the effectiveness of DHL’s promise to “connect people,” especially when timely delivery is crucial for personal or business needs.
+
+Risk: Prediction models for supply chain disruptions fail to account for rare but impactful events (e.g., pandemics, geopolitical instability), resulting in unprepared logistics operations.","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.","AI safety systems may incorrectly flag behavior based on biased datasets, disproportionately targeting certain ethnic or demographic groups of workers.
+
+Schedule optimization AI may favor projects in wealthier or urban regions, leading to underinvestment in rural or disadvantaged areas.
+
+AI-driven maintenance prioritization could overlook equipment used by subcontractors or smaller teams, reinforcing unequal resource access.
+
+Communication systems using natural language processing may misinterpret non-standard dialects, causing some workers' concerns to be dismissed.",,,,"Workers may misunderstand alerts from AI safety systems due to unclear interface design, leading to delayed responses during dangerous situations.
+
+Construction staff may distrust or ignore AI-generated schedules if the reasoning behind changes is not transparent, reducing operational efficiency.
+
+Overreliance on predictive maintenance AI may reduce hands-on inspections, leading to missed human-observable issues.
+
+Poorly designed interaction with AI tools may cause cognitive overload or confusion among site managers juggling complex inputs and timelines.",,,Yes,"Disproportionate targeting of specific ethnic or demographic groups undermines the company’s stated commitment to ethnic dignity, directly conflicting with the mission.
+
+Risk: Schedule optimization AI may favor projects in wealthier or urban regions, leading to underinvestment in rural or disadvantaged areas.",,,,,,,No,"While this may reduce productivity, it does not directly impact the company’s stated dedication to national honour or ethnic dignity.
+
+Risk: Overreliance on predictive maintenance AI may reduce hands-on inspections, leading to missed human-observable issues.",,,,,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.","AI target recognition may inherit or amplify biases, leading to disproportionately targeting certain groups or geographic regions based on flawed training data.
+
+Logistics AI may prioritize operations in a way that disadvantages certain personnel or regions, perpetuating inequities within defense resource allocation.
+
+Predictive maintenance systems could undervalue the needs of older or less frequently used equipment, leading to discriminatory maintenance schedules.
+
+Language processing systems used in logistics or targeting may misinterpret commands or intelligence in minority dialects, leading to operational misunderstandings.",,,"Adversaries may hack AI-enhanced target recognition systems to misidentify civilian objects as military targets, leading to unlawful engagement.
+
+Predictive maintenance systems in military vehicles could be tampered with to provide false diagnostics, potentially causing vehicle failure during critical operations.
+
+AI-driven logistics systems could be compromised to disrupt supply lines or reroute critical equipment, weakening defense readiness.
+
+Malicious actors could insert poisoned data during AI training phases, corrupting models used in defense decision-making processes.
+
+",,,,Yes,"Compromised target recognition undermines national defense by increasing the risk of unlawful or incorrect engagements, directly threatening the nation’s defense integrity and security.
+
+Risk: Predictive maintenance systems in military vehicles could be tampered with to provide false diagnostics, potentially causing vehicle failure during critical operations.",,,,,Yes,"Biased targeting undermines lawful military conduct and operational accuracy, which can provoke international backlash or internal unrest, weakening national defense legitimacy.
+
+Risk: Logistics AI may prioritize operations in a way that disadvantages certain personnel or regions, perpetuating inequities within defense resource allocatio",,,,,,,No,AI chatbot,No,AI supply chain,
+2025-08-05 11:42:39,2025-08-05 12:26:03,IP Address,86.172.124.247,100,2604,True,2025-08-05 12:26:03,R_2IZeqMX5Tw4669h,,,,,52.7225,-1.3702,anonymous,EN,Yes,6883a8504728f57551e8c82b,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",Customs AI might unfairly target shipments based on country or sender profile. AI could deprioritize deliveries to low-income regions. Past bias in data might lead to unfair routing. Certain types of parcels might be flagged unfairly.,Disruption alerts from AI may be wrong and cause false delays. Customers might receive inaccurate delivery updates. AI may mislabel package status. Customs AI might provide incorrect shipment documentation.,Sensitive shipment or customer data could leak from AI systems. Hackers might exploit security gaps in automated customs. AI could infer sender or receiver patterns from metadata. Routing AI may expose internal logistics infrastructure.,Bad actors could exploit customs AI to bypass checks. Delivery routing could be manipulated to reroute parcels. Hackers might target predictive systems to disrupt supply chains. Fraudulent entries might get approved automatically.,Staff may rely too much on AI routing and lose problem-solving skills. Customs officers might overlook false clearances. AI decisions could be taken as final without checks. AI prediction errors could mislead planning.,AI may reduce customs and logistics jobs. Control of delivery decisions could become too centralized. AI may favor fast delivery over green routes. Regional inequalities could grow if tech isn't evenly adopted.,Routing AI might miscalculate and cause delivery issues. Prediction tools may fail during unexpected events. Customs AI could clear restricted goods due to poor training. Lack of transparency might make errors hard to spot.,Yes,"If AI deprioritizes certain regions or unfairly flags packages, it undermines the goal of connecting people and may worsen inequality, which contradicts the aim of improving lives.",Yes,Wrong delivery updates or shipment data reduce trust in DHL's services. This damages their ability to connect people reliably and can negatively impact the lives of those depending on accurate information.,Yes,"If customer or shipment data leaks, people may feel unsafe using DHL’s services. This breaks trust and disrupts the mission of improving lives through secure global logistics.",Yes,"Security breaches or fraudulent routing interfere with safe delivery and harm connections between senders and recipients, going against the core idea of connecting people.",Yes,"Overreliance on AI may lead to errors that break delivery chains or reduce human oversight. This can cause service failures, blocking connection and worsening customer experience.",Yes,"If AI causes job losses or contributes to inequality, it directly harms the quality of life for affected workers and regions, clashing with DHL’s mission to improve lives.",Yes,Delivery errors or unchecked customs clearances break DHL’s promise of reliable logistics. This weakens the company’s role in connecting people and can harm the lives of those relying on timely service.,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI safety tools might detect risk less effectively for certain body types or gear, leading to biased enforcement. Scheduling AI might favor certain shifts or teams unfairly. Predictive tools might under-prioritize maintenance in older or locally managed equipment.","AI might send false safety alerts, causing unnecessary evacuations. Workers could receive incorrect task updates from scheduling AI. Predictive tools might mislabel critical equipment as safe. Misleading data could delay emergency responses",Sensors used for safety may collect identifiable worker data. AI systems could expose sensitive project timelines to outside access. Internal equipment logs might be leaked through unsecured prediction systems. Site surveillance AI might record without proper consent.,Hackers could tamper with safety AI to bypass warnings. AI-driven schedules could be manipulated to delay or sabotage project timelines. Predictive maintenance data could be targeted to trigger equipment failures. Malicious code might override safety protocols on site.,Site workers might depend too much on AI alerts and stop using personal judgment. Overreliance on automated scheduling could reduce human oversight. Supervisors may stop manually checking equipment flagged as “safe” by AI. AI miscommunication might confuse teams on site.,Job loss could result from automating safety inspections. Centralized AI scheduling might sideline input from local project leads. AI-driven optimization might favor cost-cutting over worker wellbeing. Data-driven decisions might ignore local environmental impacts during construction.,"Safety AI might miss hazards due to poor training data. Schedule optimization could miscalculate task dependencies, causing costly delays. Predictive maintenance AI might not flag urgent failures. Inaccurate predictions might halt operations unnecessarily.",Yes,Bias in safety systems or scheduling that unfairly treats certain groups directly contradicts the company's aim to uphold ethnic dignity and fairness.,Yes,"False alerts or mislabeling of equipment safety could lead to accidents, damaging public trust and harming national honour if large-scale failures occur.",Yes,"Leaks of worker data or sensitive project details can compromise national security or dignity, especially on critical infrastructure projects tied to national development.",Yes,"AI sabotage or tampering with infrastructure safety could risk lives, delay national projects, and bring shame or instability - undermining both honour and national reputation.",Yes,Overdependence on AI that causes preventable accidents or confusion on-site can harm worker dignity and create public embarrassment for national-level projects.,Yes,"If AI displaces local jobs or ignores environmental harm, it could erode social wellbeing and national pride - conflicting with the mission to act in the nation’s honour.",Yes,"AI failures leading to project delays or safety risks can damage national prestige, especially on high-profile infrastructure works meant to reflect progress and strengt","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","Recognition AI might be less accurate on individuals wearing unfamiliar uniforms or gear, leading to biased target identification. Logistics AI may deprioritize support to certain regions or units based on flawed training data. Maintenance systems might under-allocate resources to non-strategic units.",Target recognition AI may falsely classify civilian objects as threats. Faulty maintenance predictions might report critical vehicles as operational. Logistic AI could give inaccurate route or resupply information. Misleading system feedback could affect command decisions.,Sensitive military data may be exposed through AI prediction logs. Targeting systems could be exploited to leak battlefield positions. AI-driven logistics might reveal troop movements. Maintenance reports could unintentionally expose strategic vulnerabilities.,"AI systems could be hacked to misidentify targets, causing friendly fire. Adversaries might manipulate logistics AI to disrupt supply chains. Military predictive tools could be sabotaged to mask urgent repairs. Compromised systems might leak classified defense movement data.","Troops may over-rely on AI recognition, lowering human verification. Field staff might ignore mechanical warning signs if AI flags them as non-critical. Logistics teams may default to AI suggestions, even in changing terrain. Loss of manual intervention could increase operational risk.","AI-driven automation may reduce technical and logistics roles in defense, affecting skilled employment. Centralized AI control may limit field officer decision-making. Operational efficiency might take priority over safe handling of sensitive ecosystems in training zones.",AI misfires in recognition systems could trigger unintended attacks. Maintenance AI might overlook failure signals in critical vehicles. Logistic AI could stall resupply operations during peak combat. AI systems may not adapt well in dynamic combat scenarios.,Yes,"If AI systems misidentify individuals or deprioritize certain units, it undermines operational fairness and reliability, putting national defense outcomes at risk.",Yes,"Misclassifying targets or giving false logistics data can lead to operational failure or friendly fire, directly harming the nation’s defense security.",Yes,"Exposure of classified data or troop movements compromises battlefield advantage and national security, which directly conflicts with the mission.",Yes,"AI manipulation that disrupts defense logistics or target systems threatens the integrity of military operations, weakening national defense.",Yes,"Overreliance on AI can result in avoidable errors if human judgment is bypassed, which may weaken field performance and strategic readiness.",Yes,"Although job loss or environmental oversight may affect internal operations, they don’t directly interfere with the core goal of defense security unless they scale into operational disruption.",Yes,"System failures in target recognition or logistics could result in mission failure or unintended harm, which clearly threatens national defense objectives.",No,Write AI chatbot.,No,Write AI supply chain.,
+2025-08-06 09:21:38,2025-08-06 10:12:59,IP Address,109.152.55.13,100,3081,True,2025-08-06 10:13:00,R_86js5lsSlYkMBix,,,,,51.0386,-2.2752,anonymous,EN,Yes,58ff31a1d10e2b000108579e,"Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,Routing information could include personal details of name and address  of customers and which items they are purchasing. AI  could release confidential payment and banking details.,Harm: malicious actors could disrupt deliveries and cause supply chain disruption. Fraud and targeted manipulation: potential for smuggling contraband goods from automated customs clearance procedures,Reliance on AI systems presents a risk of de-skilling human operators. AI routing decisions reduce human agency and autonomy.,AI package routing for minimised delivery times could increase energy use and environmental harm. Decline in employment quality if AI takes over decisions.,AI pursuing own goals would destroy delivery system. Lack of capability or robustness could cause unexpected failures in delivery. Lack of interpretability would prevent recovery if failure occurs.,,,,,Yes,Lives would not be improved by leaks of personal purchase and payment details,Yes,Failure would compromise ability to connect people,Yes,Employees are people: de-skilling them and reducing human agency would not improve their lives.,Yes,Decline in employment quality would not improve lives.,Yes,Delivery failures would disconnect people and make their lives worse.,"Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,,Risk of hacking into AI outputs for maintenance or safety. Potential for mass harm.,All suggested AI uses could lead to over-reliance and loss of human agency and ability. Replacing human agency with AI could reduce safety if humans no longer check the results.,"Devaluation of human effort by replacing human skills in predictive maintenance, construction schedules and safety. Environmental harm if AI optimised construction schedules do not account for environmental damage.","AI failure could present risks to life if it occurs in any of the stated areas. Lack of transparency or interpretability may cause errors in following instructions, in all areas, leading to risk of actual harms.",,,,,,,Yes,"Malicious actors could cause project failure which will detract from national honour and ethnic dignity. ",Yes,Loss of human agency and competence will detract from company and national reputation,Yes,Environmental damage would lead to loss of national reputation,Yes,AI-caused failure will lead to loss of reputation,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI targeting: could be biased. ",,,Maintenance: hacking leading to destruction of military vehicles. Target recognition: malicious actors could cause selection of wrong targets. Logistics: malicious actors could cause chaos.,"Maintenance: over-reliance, loss of skills could cause fatal risk. Targeting: clear risk of loss of human agency. ",Target recognition: leads to unfair power advantage. Also potential for governance failure.,Target selection: AI pursuing own goals could select wrong targets. AI use here would cause AI to possess dangerous abilities. Lack of transparency also concerning.,Yes,Clear risk to security if wrong targets are selected.,,,,,Yes,Clear risk to national security if systems can be compromised,Yes,Loss of skills and taking humans out of the loop are clear risks to security,Yes,A private company with AI targeting ability could be a threat to its own nation,Yes,Military AI pursuing its own goals is a clear potential danger to its own nation and others,No,Write AI chatbot,No,Write AI supply chain,

@@ -1,0 +1,724 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Dem_1,Q1.1,Q1.1_1_TEXT,Q1.1_2_TEXT,Q1.1_4_TEXT,Q1.1_5_TEXT,Q1.1_6_TEXT,Q1.1_8_TEXT,Q1.1_7_TEXT,Q1.2_1,Q1.2_1_TEXT,Q1.2_2,Q1.2_2_TEXT,Q1.2_3,Q1.2_3_TEXT,Q1.2_4,Q1.2_4_TEXT,Q1.2_5,Q1.2_5_TEXT,Q1.2_6,Q1.2_6_TEXT,Q1.2_7,Q1.2_7_TEXT,Q290.1,Q290.1_1_TEXT,Q290.1_2_TEXT,Q290.1_4_TEXT,Q290.1_5_TEXT,Q290.1_6_TEXT,Q290.1_8_TEXT,Q290.1_7_TEXT,Q290.2_1,Q290.2_1_TEXT,Q290.2_2,Q290.2_2_TEXT,Q290.2_3,Q290.2_3_TEXT,Q290.2_4,Q290.2_4_TEXT,Q290.2_5,Q290.2_5_TEXT,Q290.2_6,Q290.2_6_TEXT,Q290.2_7,Q290.2_7_TEXT,Q138.1,Q138.1_1_TEXT,Q138.1_2_TEXT,Q138.1_4_TEXT,Q138.1_5_TEXT,Q138.1_6_TEXT,Q138.1_8_TEXT,Q138.1_7_TEXT,Q138.2_1,Q138.2_1_TEXT,Q138.2_2,Q138.2_2_TEXT,Q138.2_3,Q138.2_3_TEXT,Q138.2_4,Q138.2_4_TEXT,Q138.2_5,Q138.2_5_TEXT,Q138.2_6,Q138.2_6_TEXT,Q138.2_7,Q138.2_7_TEXT,Q142_1,Q142_1_TEXT,Q142_2,Q142_2_TEXT,'PROLIFIC_PID'
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Do you agree with all the statements above?,What is your Prolific ID,"Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - Selected Choice","Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Walmart.
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Usecases of AI in the company: AI-driven demand forecasting for inventory management, Chatbots enhance customer service experience, Predictive analytics for supply chain optimization. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1]","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1] - Text","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2]","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2] - Text","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4]","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4] - Text","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5]","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5] - Text","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6]","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6] - Text","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8]","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8] - Text","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7]","Company: Walmart
+
+Industry: General Merchandisers
+
+Description: Walmart is a technology-powered omnichannel retailer operating retail and wholesale stores globally.
+
+Mission: ""We aim to build a better world — helping people live better and renew the planet while building thriving, resilient communities.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7] - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - Selected Choice","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Usecases of AI in the company: AI for drug demand forecasting, AI-powered prescription verification, AI-driven inventory management. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1]","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1] - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2]","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2] - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4]","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4] - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5]","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5] - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6]","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6] - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8]","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8] - Text","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7]","Company: Phoenix Pharma.
+
+Industry: Wholesalers: Health Care
+
+Description: European healthcare company specializing in pharmaceutical wholesale and retail services.
+
+Mission: ""We deliver health.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7] - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - Selected Choice","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Usecases of AI in the company: AI for chemical process optimization, Predictive maintenance of industrial equipment, Enhance material quality control. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1]","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1] - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2]","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2] - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4]","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4] - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5]","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5] - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6]","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6] - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8]","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8] - Text","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7]","Company: Zhejiang Rongsheng Holding Group.
+
+Industry: Chemicals
+
+Description: Diversified conglomerate operating across industries including chemicals, metals, and building materials.
+
+Mission: ""Insist on serving the country with industry, lead the development of the industry.""
+
+
+
+Please review the text below. 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7] - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot. - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain. - Text",'PROLIFIC_PID'
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1218504057""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID64""}","{""ImportId"":""QID64_1_TEXT""}","{""ImportId"":""QID64_2_TEXT""}","{""ImportId"":""QID64_4_TEXT""}","{""ImportId"":""QID64_5_TEXT""}","{""ImportId"":""QID64_6_TEXT""}","{""ImportId"":""QID64_8_TEXT""}","{""ImportId"":""QID64_7_TEXT""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID132_1_TEXT""}","{""ImportId"":""QID132_2""}","{""ImportId"":""QID132_2_TEXT""}","{""ImportId"":""QID132_3""}","{""ImportId"":""QID132_3_TEXT""}","{""ImportId"":""QID132_4""}","{""ImportId"":""QID132_4_TEXT""}","{""ImportId"":""QID132_5""}","{""ImportId"":""QID132_5_TEXT""}","{""ImportId"":""QID132_6""}","{""ImportId"":""QID132_6_TEXT""}","{""ImportId"":""QID132_7""}","{""ImportId"":""QID132_7_TEXT""}","{""ImportId"":""QID166""}","{""ImportId"":""QID166_1_TEXT""}","{""ImportId"":""QID166_2_TEXT""}","{""ImportId"":""QID166_4_TEXT""}","{""ImportId"":""QID166_5_TEXT""}","{""ImportId"":""QID166_6_TEXT""}","{""ImportId"":""QID166_8_TEXT""}","{""ImportId"":""QID166_7_TEXT""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID168_1_TEXT""}","{""ImportId"":""QID168_2""}","{""ImportId"":""QID168_2_TEXT""}","{""ImportId"":""QID168_3""}","{""ImportId"":""QID168_3_TEXT""}","{""ImportId"":""QID168_4""}","{""ImportId"":""QID168_4_TEXT""}","{""ImportId"":""QID168_5""}","{""ImportId"":""QID168_5_TEXT""}","{""ImportId"":""QID168_6""}","{""ImportId"":""QID168_6_TEXT""}","{""ImportId"":""QID168_7""}","{""ImportId"":""QID168_7_TEXT""}","{""ImportId"":""QID170""}","{""ImportId"":""QID170_1_TEXT""}","{""ImportId"":""QID170_2_TEXT""}","{""ImportId"":""QID170_4_TEXT""}","{""ImportId"":""QID170_5_TEXT""}","{""ImportId"":""QID170_6_TEXT""}","{""ImportId"":""QID170_8_TEXT""}","{""ImportId"":""QID170_7_TEXT""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID172_1_TEXT""}","{""ImportId"":""QID172_2""}","{""ImportId"":""QID172_2_TEXT""}","{""ImportId"":""QID172_3""}","{""ImportId"":""QID172_3_TEXT""}","{""ImportId"":""QID172_4""}","{""ImportId"":""QID172_4_TEXT""}","{""ImportId"":""QID172_5""}","{""ImportId"":""QID172_5_TEXT""}","{""ImportId"":""QID172_6""}","{""ImportId"":""QID172_6_TEXT""}","{""ImportId"":""QID172_7""}","{""ImportId"":""QID172_7_TEXT""}","{""ImportId"":""QID142_58""}","{""ImportId"":""QID142_58_TEXT""}","{""ImportId"":""QID142_61""}","{""ImportId"":""QID142_61_TEXT""}","{""ImportId"":""'PROLIFIC_PID'""}"
+01/08/2025 01:21,01/08/2025 01:56,IP Address,103.104.20.152,100,2109,TRUE,01/08/2025 01:56,R_2EaH3PsQ7C7nyes,,,,,51.5164,-0.093,anonymous,EN,Yes,684f05593c8301d7db6ecd83,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,Chatbots can provide vague and unhelpful tips for solving customers' issues. Chatbots can provide customers with untrue solutions for less typical problems.,,,"Humans will not be checking whether demand forecasting is really true, in rare cases it could cause many bad things. The same in case of predictive analytics for supply chain optimization.",,"If demand forecasting will be much different from reality, there will be huge losses for the firm. If value of predictive analytics differs much from reality, there will be huge losses for Walmart too because in these fields, the firm relies on AI.",,,Yes,It would only cause frustrations for customers and it doesn't contribute to building better world.,,,,,No,,,,Yes,"If AI fails to predict values closely in supply chain optimization, maybe there won't be enough products on the shelves and customers will need to go to another shops which is not building a better world.","Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,"If there is some security breach at the firm, prescriptions of different people with personal information on them, could be leaked to the world.",,"If humans don't verify drug demand forecasts provided by AI, it could lead to many people not receiving medicines in some rare cases eg. during pandemics. If humans don't verify prescriptions themselves too, it could lead to patients receiving wrong medications for their illnesses or people who deliberately want medication they don't have prescription for, would still receive them.",,"If drug demand forecasts by AI is not close to the reality, many people could end up without medications they desperately need. If AI doesn't verify prescriptions well, people could get wrong medications for their illnesses which would harm their health too.",,,,,No,,,,Yes,"If AI doesn't work as expected and humans don't supervise it in any way, people might not be able to buy medications they need or they could get wrong medications for their illnesses which doesn't contribute to delivering health.",,,Yes,"If AI doesn't work as expected, people might not be able to buy medications they need or they could get wrong medications for their illnesses which doesn't contribute to delivering health.","Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,,,"If AI doesn't predict maintenance well, the employees wouldn't know themselves if the equipment is not working as it should or if it needs cleaning or other type of maintenance which would harm the quality of products. If AI has flaws in terms of chemical process optimization, employees or humans won't notice that and the products can be flawed because of that.",,"If AI has some flaws in terms of chemical process optimization, the products can be bad and of low standard which would harm the firm badly. Also if AI doesn't predict maintenance well, the quality of the products can be lowered too.",,,,,,,,,Yes,"If there's no human control over AI and it doesn't work perfectly, the products will be of low quality and it wouldn't look like the firm leads the development of industry.",,,Yes,"Again, if the systems don't work perfectly, if they have flaws then products' quality will be lowered and the company wouldn't lead the industry anymore.",No,AI chatbot,No,AI supply chain,
+01/08/2025 01:48,01/08/2025 02:42,IP Address,90.198.141.113,100,3182,TRUE,01/08/2025 02:42,R_8TvDTYDaFluZ0wV,,,,,51.4964,-0.1224,anonymous,EN,Yes,6759faea38faca8e359a5f99,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.",,Customers may be misinformed when their specific issue is not addressed ,,,Chat bots can be very limiting in terms of interaction. Customers may have specific needs not covered by chatbots.,,,,,No,No specific rusk has been identified for this,,,,,No,No risk to the mission has been identified for this,,,,,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.",,There is risk  of misinformation ifAI systems gather incorrect information. ,When evaluating.and gathering information privacy and security may be compromised. ,,,,,,,Yes,Health cannot be delivered when there is misinformation.  ,Yes,If privacy is compromised health cannot be delivered. ,,,,,,,,,"Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,AI can expose customer systems as information for one customer can he used as a learning reference fir another customer hence compromising privacy. ,,This risk will qr8se if humans do not monitor AI system and also ivetreky on AI systems without them making their own diagnosis.  ,,AI systems may ge incapacitated to deal with specific customer issues and may not admit it hence rusk applying incorrect diagnosis and solutions hence harming customer equipment.  ,,,,,Yes,When the privacy of customers is compromised there risk to the mission of being the industry leader.,,,No,No- no risk  has Bern identified for this,,,Yes,If customer issues are nit sold this will conflict with the firns mission. ,,No- AI chatbot,,No AI supply chain,
+01/08/2025 04:33,01/08/2025 05:20,IP Address,90.242.153.197,100,2818,TRUE,01/08/2025 05:20,R_8lyO3A2TvbFIHgA,,,,,52.0625,-0.8166,anonymous,EN,Yes,59dccd61e75b450001a689b7,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,"AI-driven support may produce incorrect customer help for customers, resulting in  dissatisfaction. ",,,AI areas may become controlling rather than a tool,Loss of jobs. Dumbing down of work force,Could cause problems in inventory management due to lack of transparency. Predictive analysis may miss unusual issues,,,Yes,Reduced customer satisfaction will lead to fewer customers,,,,,Yes,Business may lose its humanity which may effect customer loyalty. Systems lack human oversight,Yes,Business becomes over reliant on technology and undervalues it's workers,Yes,Bad information will cause business problems in forecasting and predicting markets,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",May discriminate against certain groups in verification,,Possibility of compromise of verification and leaking of user details,Attacks on verification and abuse of prescription service,Inaccurate forecasts. Failure to pick out unusual events in forecasting. Loss of control and oversight,Potential loss of jobs. Dehumanizing impact,Issues with transparency in relation to inventories.,Yes,It would effect the ability to deliver health.,,,Yes,It would damage company reputation and reduce it's ability to carry out mission,Yes,It would damage it's ability to deliver health to intended customers,Yes,This would mean inaccurate forecasts causing a lack of efficiency,No,This wouldn't influence core mission,Yes,It would make processes less efficient and make its mission less effective,"Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,,Hacking of systems could create big problems,Overreliance causing deskilling. Inability to deal with crisis or accidents,May miss environmental issues,Lack of human oversight and deskilling of workforces could cause problems for unforeseen events,,,,,,,Yes,This would seriously hinder ability to serve country and be a leading industry force,Yes,It would damage reputation and could be catastrophic,Yes,lack of supervision may result in serious incidents,Yes,The mission would be impeded and reduce ability to reach its aims,No,AI chatbot,No,AI supply chain,

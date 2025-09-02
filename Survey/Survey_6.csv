@@ -1,0 +1,640 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Dem_1,Q332.1,Q332.1_1_TEXT,Q332.1_2_TEXT,Q332.1_4_TEXT,Q332.1_5_TEXT,Q332.1_6_TEXT,Q332.1_8_TEXT,Q332.1_7_TEXT,Q332.2_1,Q332.2_1_TEXT,Q332.2_2,Q332.2_2_TEXT,Q332.2_3,Q332.2_3_TEXT,Q332.2_4,Q332.2_4_TEXT,Q332.2_5,Q332.2_5_TEXT,Q332.2_6,Q332.2_6_TEXT,Q332.2_7,Q332.2_7_TEXT,Q90.1,Q90.1_1_TEXT,Q90.1_2_TEXT,Q90.1_4_TEXT,Q90.1_5_TEXT,Q90.1_6_TEXT,Q90.1_8_TEXT,Q90.1_7_TEXT,Q90.2_1,Q90.2_1_TEXT,Q90.2_2,Q90.2_2_TEXT,Q90.2_3,Q90.2_3_TEXT,Q90.2_4,Q90.2_4_TEXT,Q90.2_5,Q90.2_5_TEXT,Q90.2_6,Q90.2_6_TEXT,Q90.2_7,Q90.2_7_TEXT,Q199.1,Q199.1_1_TEXT,Q199.1_2_TEXT,Q199.1_4_TEXT,Q199.1_5_TEXT,Q199.1_6_TEXT,Q199.1_8_TEXT,Q199.1_7_TEXT,Q199.2_1,Q199.2_1_TEXT,Q199.2_2,Q199.2_2_TEXT,Q199.2_3,Q199.2_3_TEXT,Q199.2_4,Q199.2_4_TEXT,Q199.2_5,Q199.2_5_TEXT,Q199.2_6,Q199.2_6_TEXT,Q199.2_7,Q199.2_7_TEXT,Q142_1,Q142_1_TEXT,Q142_2,Q142_2_TEXT,'PROLIFIC_PID'
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Do you agree with all the statements above?,What is your Prolific ID,"Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - Selected Choice","Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Coca-Cola
+
+Industry: Beverages​​​​​​​
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+Usecases of AI in the company: AI-driven recipe optimization, Predictive maintenance for bottling lines, Personalized marketing recommendations - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1]","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1] - Text","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2]","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2] - Text","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4]","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4] - Text","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5]","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5] - Text","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6]","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6] - Text","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8]","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8] - Text","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7]","Company: Coca-Cola
+
+Industry: Beverages
+
+Description: Coca-Cola is a leading global beverage company selling various soft drinks, juices, and water brands.​​​​​​​
+
+
+
+Mission: ""TO REFRESH THE WORLD. MAKE A DIFFERENCE.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7] - Text","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - Selected Choice","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Target
+
+Industry: General Merchandisers​​​​​​​
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+​​​​​​Usecases of AI in the company: AI for personalized shopping recommendations, AI-driven inventory management, AI-enhanced fraud detection. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1]","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1] - Text","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2]","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2] - Text","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4]","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4] - Text","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5]","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5] - Text","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6]","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6] - Text","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8]","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8] - Text","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7]","Company: Target
+
+Industry: General Merchandisers
+
+Description: Target is a general merchandise retailer offering discounted prices on everyday essentials and fashionable products.
+
+
+
+Mission: ""To help all families discover the joy of everyday life.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7] - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - Selected Choice","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced predictive maintenance, AI for fleet management optimisation, AI-powered site safety monitoring. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1]","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1] - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2]","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2] - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4]","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4] - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5]","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5] - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6]","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6] - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8]","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8] - Text","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7]","Company: Caterpillar
+
+Industry: Construction and Farm Machinery
+
+Description: Caterpillar manufactures construction, mining, and energy equipment, and provides related financing and technology services.
+
+
+
+Mission: ""We help our customers build a better, more sustainable world.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7] - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot. - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain. - Text",'PROLIFIC_PID'
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1218504057""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID64""}","{""ImportId"":""QID64_1_TEXT""}","{""ImportId"":""QID64_2_TEXT""}","{""ImportId"":""QID64_4_TEXT""}","{""ImportId"":""QID64_5_TEXT""}","{""ImportId"":""QID64_6_TEXT""}","{""ImportId"":""QID64_8_TEXT""}","{""ImportId"":""QID64_7_TEXT""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID132_1_TEXT""}","{""ImportId"":""QID132_2""}","{""ImportId"":""QID132_2_TEXT""}","{""ImportId"":""QID132_3""}","{""ImportId"":""QID132_3_TEXT""}","{""ImportId"":""QID132_4""}","{""ImportId"":""QID132_4_TEXT""}","{""ImportId"":""QID132_5""}","{""ImportId"":""QID132_5_TEXT""}","{""ImportId"":""QID132_6""}","{""ImportId"":""QID132_6_TEXT""}","{""ImportId"":""QID132_7""}","{""ImportId"":""QID132_7_TEXT""}","{""ImportId"":""QID166""}","{""ImportId"":""QID166_1_TEXT""}","{""ImportId"":""QID166_2_TEXT""}","{""ImportId"":""QID166_4_TEXT""}","{""ImportId"":""QID166_5_TEXT""}","{""ImportId"":""QID166_6_TEXT""}","{""ImportId"":""QID166_8_TEXT""}","{""ImportId"":""QID166_7_TEXT""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID168_1_TEXT""}","{""ImportId"":""QID168_2""}","{""ImportId"":""QID168_2_TEXT""}","{""ImportId"":""QID168_3""}","{""ImportId"":""QID168_3_TEXT""}","{""ImportId"":""QID168_4""}","{""ImportId"":""QID168_4_TEXT""}","{""ImportId"":""QID168_5""}","{""ImportId"":""QID168_5_TEXT""}","{""ImportId"":""QID168_6""}","{""ImportId"":""QID168_6_TEXT""}","{""ImportId"":""QID168_7""}","{""ImportId"":""QID168_7_TEXT""}","{""ImportId"":""QID170""}","{""ImportId"":""QID170_1_TEXT""}","{""ImportId"":""QID170_2_TEXT""}","{""ImportId"":""QID170_4_TEXT""}","{""ImportId"":""QID170_5_TEXT""}","{""ImportId"":""QID170_6_TEXT""}","{""ImportId"":""QID170_8_TEXT""}","{""ImportId"":""QID170_7_TEXT""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID172_1_TEXT""}","{""ImportId"":""QID172_2""}","{""ImportId"":""QID172_2_TEXT""}","{""ImportId"":""QID172_3""}","{""ImportId"":""QID172_3_TEXT""}","{""ImportId"":""QID172_4""}","{""ImportId"":""QID172_4_TEXT""}","{""ImportId"":""QID172_5""}","{""ImportId"":""QID172_5_TEXT""}","{""ImportId"":""QID172_6""}","{""ImportId"":""QID172_6_TEXT""}","{""ImportId"":""QID172_7""}","{""ImportId"":""QID172_7_TEXT""}","{""ImportId"":""QID142_58""}","{""ImportId"":""QID142_58_TEXT""}","{""ImportId"":""QID142_61""}","{""ImportId"":""QID142_61_TEXT""}","{""ImportId"":""'PROLIFIC_PID'""}"
+2025-08-05 13:05:43,2025-08-05 14:35:18,IP Address,150.143.53.66,100,5374,True,2025-08-05 14:35:18,R_2pddpIFskYbLH8Z,,,,,50.8657,-3.4024,anonymous,EN,Yes,60e5fa452bd56bda03990e27,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI prioritising line efficiency of employee safety. AI failing to account for differences in the workforce leading to discrimination. ",,"Leaking of PII through inadequate controls. Leaking of employee performance data into the workforce. ","Theft of collected personal data. Lack of transparency over PII being collected. ","Compromised health and safety culture due to reliance on automated systems. Harmful recommendations due to extrapolation from big data. ","Loss of maintenance line jobs. Employee disengagement with H&S policy. COSHH failures due to inadequate/biased AI monitoring. ",Failure of maintenance in production lines resulting in harmful product defects. AI optimising scheduled maintenance over realtime assessments. Recipe being optimised for cost not quality leading to decreased customer satisfaction.,Yes,"Nothing refreshing about somebody getting their fingers chopped off. Discriminatory performance goals probably aren't the difference they want to make - although that said it is Coca Cola so maybe not. ",,,Yes,"A personal data leak is not refreshing. ",Yes,"Nothing refreshing about this either. Certainly won't make a positive difference to the world. ",Yes,"Poor customer experience won't be making a difference in any way that correlates with the mission statements objectives. ",Yes,"Again, not a difference I expect they want to be making. ",Yes,Nobody in the world is going to find a defective product refreshing or making a difference they enjoy,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","Lack of controls over collected customer data leading to sensitive information being used causing harm or offence. AI has proven to be susceptible to making discriminatory statements conclusions, without human intervention. ",,"Data used for customer profiling when making shopping recommendations being stolen/leaked to third parties. Failures in fraud detection algorithms allowing for criminal practice. ","A system containing large amounts of customer's personal data is a honeypot for hackers. Lack of transparency over AI collection algorithms leading to potentially harmful/privileged information being collected. Leak of PII. ","The fundamental lesson of the customer experience industry is that human's prefer experiences that are emotional and personal, which is completely lost when dealing with an AI. Employees will again see these systems as a threat to their roles and seek alternative employment leading to a dissatisfied/inexperienced workforce. ","Inappropriate or harmful product recommendations. Poor customer satisfaction from non-human interactions. Inefficient or biased stock management driving poor stock control. ","Customer's won't feel personalised recommendations are actually personalised and shop elsewhere. Employees may feel they effectively managed by systems not people, again driving low engagement with associated hazards. Ai not adequately recognising at risk groups. ",Yes,"This would directly spoil any families enjoyment of everyday life. ",,,Yes,"There is no joy in having your sensitive data leaked or sold to criminal parties. ",Yes,See above,Yes,"There's no joy in a bot, or computer generated, inappropriate suggestions. People buy from people is the oldest cliche in the book for a reason. ",Yes,Nobody is going to enjoy everyday life if the product they desperately need is out of stock,Yes,"Again, people from people, not from poorly humanised bots. ","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI has no understanding of disability, or risk categories specific to certain ethnic, religious, or LGBTQ groups which could lead to discrimination through extrapolation of generalised risk assessment or performance protocols from homogenised datasets. There have been multiple instances of AI being susceptible to making racist and sexist statements without appropriate controls in place. ","Erroneous or deliberately misleading information being fed to the system would skew its ability to make accurate judgments. Faulty instruments/recording interfaces could themselves become unreported hazards. ",,"Abuse/deliberate mis-use of the system is highly likely without clear protocols leading to potentially hazardous situations being covered-up and not controlled. ","Users falling back on AI to monitor safety rather than a culture of diligent near miss recording from operators creating a lack of understanding when interpreting realtime hazard assessment. Ownership of everyone safety management being displaced from line managers/supervisors to an autonomous system resulting in hazards going unreported or unmonitored.  ","Extrapolating individual performance KPIs from big data without human interpretation could lead to unrealistic targeting, and the associated risks of psychological harm. Human's increasingly see AI as a threat to their jobs, so a large scale roll-out of AI based systems with the potential to directly threaten traditionally human roles risks an employee engagement crisis, that would in turn drive employee churn and an increase in recruitment and onboarding costs. ","AI Incorrectly accounting for geographic variances in topography/weather creating unrealistic maintenance schedules for specific locations compromising vehicle safety due to unexpected wear and tear on critical parts. Lack of transparency in site monitoring protocols leading to reduced confidence in the system and circumventing of prescribed preventative measures at site level. AI lack of ability to carry out realtime risk assessments responding to immediate or unexpected hazards causing gaps in risk management strategy in day-to-date activities. ",Yes,"Failing to account for disabilities, race, gender, or religious groups when assessing capability and ensuring physical and mental wellbeing directly contradicts the idea of a ""better"" world.",Yes,"This has the potential for potentially hazardous releases of chemicals, or other related environment hazards, which are by definition not ""sustainable"" practice. ",,,Yes,"See above. Assessing risks includes any situation which also has the potential to cause harm to the natural environment, which compromise effective CSR and sustainability objectives. ",Yes,"A poor health and safety culture doesn't help customers build a better, or more sustainable world and increases the risk of harm to customers, employees, and the environment equally. ",Yes,"Excessive churn results in an under skilled workforce which directly impacts the customer experience, and won't help them build a better or more sustainable world. Quite the opposite in fact. ",Yes,"Again, there is an inherent hazard here when considering potential impacts to the physical and natural environment. ",No,AI chatbot,No,AI chatbot,
+2025-08-05 16:53:39,2025-08-05 17:23:21,IP Address,81.129.170.34,100,1781,True,2025-08-05 17:23:21,R_2plDVg21NqnJbqH,,,,,51.5268,-2.5613,anonymous,EN,Yes,671a64f3a766bb5b94d9f89a,"Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.",,,AI systems analyzing consumer behavior could infer sensitive personal data. Predictive maintenance systems connected to IoT devices may be vulnerable to cyberattacks,Hackers could manipulate predictive maintenance AI to generate false alerts. Personalized marketing data could be used by cybercriminals to run targeted scams on customers using Coca-Cola’s brand.,,Automation from AI-driven predictive maintenance may reduce technical staff roles. Centralized control of AI models for global marketing may favor large markets and exclude small region,,,,,,Yes,Compromising customer privacy and exposing operations to cyberattacks undermines the mission,Yes,Scams or manipulated systems could harm consumers and disrupt operations,,,Yes,These risks challenge the mission  by potentially increasing inequality,,,"Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.",,,,Fraudsters may attempt to bypass AI fraud detection by learning and exploiting its pattern. Hackers could manipulate recommendation algorithms to promote counterfeit or harmful product,,AI-driven automation in inventory management may reduce the need for human labor. Smaller suppliers without AI-compatible systems may be excluded from Target’s supply chain which increases inequality,,,,,,,,Yes,"If hackers or fraudsters exploit AI systems to promote counterfeit products, leak data, or bypass fraud detection, it compromises customer trust and safety",,,Yes,Job losses from automation and exclusion of smaller suppliers may negatively affect families economically and society at large,,,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",AI-powered site safety systems may disproportionately flag certain workers based on biased training data,,AI-powered fleet management systems may collect and expose sensitive operator location or usage data. Site safety monitoring systems could be hacked,,,,Inaccurate AI predictions in maintenance may result in critical equipment failures during us. Fleet optimization models may recommend routes that are operationally inefficien,Yes,AI systems that unfairly flag certain workers or deliver unequal performance based on biased data challenge the company’s role due to negative bias,,,Yes,"Leaks of sensitive operational or personal data, or vulnerabilities in site systems, conflict with building a better world",,,,,,,Yes,Failures in AI systems used for safety monitoring or predictive maintenance directly threaten customer operations and potentially worker lives,No,AI chatbot,No,AI supply chain,
+2025-08-06 03:49:52,2025-08-06 05:25:58,IP Address,86.133.11.32,100,5766,True,2025-08-06 05:25:59,R_2CmvMhKc6kWhf7c,,,,,51.0528,-0.3369,anonymous,EN,Yes,664a6d5a65f30b00d2685804,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.",,Coca Cola could be particularly vulnerable to incorrect or manipulated stock ordering by AI based systems. A leak of information could be catastrophic to a company of this size. Incorrect gathering of changes in tastes across populations could cause a very costly mistake with a new product.,,,,"Companies as large as Coca Cola can have significant influence across socioeconomic groups, incorrect AI information could cause swings in popularity of less healthy options which could have a global effect on health. Faulty AI systems could cause changes in recipe or levels of ingredients which could have an environmental impact.",,,,No,This risk is specifically to the company not the world,,,,,,,Yes,"This risk relates to supply of goods to the world, and environmental impact",,,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.",,"Falsified information leading to incorrect stock levels as recently experienced by Marks and Spencer and others in the UK. Companies like Target held to ransom by malicious agents. Digital agents either accidentally or deliberately creating false demands for specific products which could then result in over ordering. ",Retail groups are particularly susceptible to damage to reputation or disruption to daily operations caused by AI attacks. AI based retail ordering asks for sensitive information which could be used maliciously if the system is hacked. Store security systems and warehouse security must surely be vulnerable to attacks if AI systems are accessed illegally.,,"Digital agents becoming reliant on websites for shopping and then not interacting with others at all. Contact with others is crucial for some individuals even though they do not pro-actively seek it. AI systems can write letters for you, and do all the research needed to perform a certain task meaning that individuals no longer need to use their brains at all. AI also provides information which allows people to convincingly pretend to be a different age group, ethnic group or gender which could have risk implications for the wider public outside of retail.",,,,,No,This risk is more related to the company operations than conflicting with the mission statement.,No,This risk is related to company security and does not conflict with the mission statement,,,Yes,This risk relates to potential risks to families and their lives AI systems are vulnerable.,,,,,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","The construction industry has opportunities for many different ethnic groups which means AI screening could introduce unfair bias into the hiring process. Onsite bullying is commonplace on building sites, so AI systems could be manipulated for this purpose. Accidents or failures related to machinery will sometimes need to be assessed. If AI is used in the decision making process this could lead to incorrect or unfair actions based on the information provided.  ",,,Caterpillar produce very expensive equipment using very expensive parts etc the ordering processes could be vulnerable to fraud if controlled by AI systems as their would be no human checking to spot mistakes. A worldwide distributor like Caterpillar could be used to influence or damage global construction  markets using AI. AI based systems could be used to provide low paid workers from different countries to construction site around the world.,,,"AI based reporting of safety failures and suggested remedies could cause accidents on site. AI based reporting of illness or accidents on sites could cause incorrect decisions to be made as the right questions might not be asked, or the answers might not be reported as a human was not there to adapt to specific situations. ",No,"This risk is related to the company and the sites where the machinery is used, rather than their customer base.",,,,,No,This risk relates specifically to damage caused to the company by malicious agents.,,,,,Yes,"This risk is more related to the people working for the customer base, so could have a negative impact on Caterpillars end users.",No,Write AI chatbot,No,Write AI supply chain,

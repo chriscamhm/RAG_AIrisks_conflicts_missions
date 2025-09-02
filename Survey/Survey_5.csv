@@ -1,0 +1,751 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Dem_1,Q288.1,Q288.1_1_TEXT,Q288.1_2_TEXT,Q288.1_4_TEXT,Q288.1_5_TEXT,Q288.1_6_TEXT,Q288.1_8_TEXT,Q288.1_7_TEXT,Q288.2_1,Q288.2_1_TEXT,Q288.2_2,Q288.2_2_TEXT,Q288.2_3,Q288.2_3_TEXT,Q288.2_4,Q288.2_4_TEXT,Q288.2_5,Q288.2_5_TEXT,Q288.2_6,Q288.2_6_TEXT,Q288.2_7,Q288.2_7_TEXT,Q426.1,Q426.1_1_TEXT,Q426.1_2_TEXT,Q426.1_4_TEXT,Q426.1_5_TEXT,Q426.1_6_TEXT,Q426.1_8_TEXT,Q426.1_7_TEXT,Q426.2_1,Q426.2_1_TEXT,Q426.2_2,Q426.2_2_TEXT,Q426.2_3,Q426.2_3_TEXT,Q426.2_4,Q426.2_4_TEXT,Q426.2_5,Q426.2_5_TEXT,Q426.2_6,Q426.2_6_TEXT,Q426.2_7,Q426.2_7_TEXT,Q435.1,Q435.1_1_TEXT,Q435.1_2_TEXT,Q435.1_4_TEXT,Q435.1_5_TEXT,Q435.1_6_TEXT,Q435.1_8_TEXT,Q435.1_7_TEXT,Q435.2_1,Q435.2_1_TEXT,Q435.2_2,Q435.2_2_TEXT,Q435.2_3,Q435.2_3_TEXT,Q435.2_4,Q435.2_4_TEXT,Q435.2_5,Q435.2_5_TEXT,Q435.2_6,Q435.2_6_TEXT,Q435.2_7,Q435.2_7_TEXT,Q142_1,Q142_1_TEXT,Q142_2,Q142_2_TEXT,'PROLIFIC_PID'
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Do you agree with all the statements above?,What is your Prolific ID,"Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - Selected Choice","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+Usecases of AI in the company: AI-driven personalized shoe design, AI optimizes supply chain logistics, AI-enhanced athlete performance analysis. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1]","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1] - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2]","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2] - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4]","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4] - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5]","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5] - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6]","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6] - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8]","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8] - Text","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7]","Company: Nike
+
+Industry: Apparel
+
+Description: Nike designs, markets, and distributes athletic footwear, apparel, and equipment for sports and fitness activities.
+
+
+
+Mission: ""To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7] - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - Selected Choice","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+​​​​​​Usecases of AI in the company: AI for chip design optimization, Predictive maintenance of manufacturing equipment, AI-enhanced 5G network management. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1]","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1] - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2]","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2] - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4]","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4] - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5]","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5] - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6]","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6] - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8]","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8] - Text","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7]","Company: Qualcomm
+
+Industry: Semiconductors and Other Electronic Components
+
+Description: Qualcomm develops and supplies integrated circuits and system software for wireless connectivity and computing.
+
+
+
+Mission: ""We believe in the power of technology to enrich lives through purposeful innovation.""
+
+ 
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7] - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - Selected Choice","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+Usecases of AI in the company: AI for predictive maintenance of electronics, AI-driven cybersecurity solutions, AI optimizes supply chain logistics. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1]","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1] - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2]","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2] - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4]","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4] - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5]","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5] - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6]","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6] - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8]","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8] - Text","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7]","Company: China Electronics
+
+Industry: Electronics, Electrical Equip.
+
+Description: China Electronics develops and produces military and civil electronic equipment, software, and systems.
+
+
+
+Mission: ""Building a Cyber Power and Linking to a Happy World.""
+
+ 
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7] - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot. - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain. - Text",'PROLIFIC_PID'
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1218504057""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID64""}","{""ImportId"":""QID64_1_TEXT""}","{""ImportId"":""QID64_2_TEXT""}","{""ImportId"":""QID64_4_TEXT""}","{""ImportId"":""QID64_5_TEXT""}","{""ImportId"":""QID64_6_TEXT""}","{""ImportId"":""QID64_8_TEXT""}","{""ImportId"":""QID64_7_TEXT""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID132_1_TEXT""}","{""ImportId"":""QID132_2""}","{""ImportId"":""QID132_2_TEXT""}","{""ImportId"":""QID132_3""}","{""ImportId"":""QID132_3_TEXT""}","{""ImportId"":""QID132_4""}","{""ImportId"":""QID132_4_TEXT""}","{""ImportId"":""QID132_5""}","{""ImportId"":""QID132_5_TEXT""}","{""ImportId"":""QID132_6""}","{""ImportId"":""QID132_6_TEXT""}","{""ImportId"":""QID132_7""}","{""ImportId"":""QID132_7_TEXT""}","{""ImportId"":""QID166""}","{""ImportId"":""QID166_1_TEXT""}","{""ImportId"":""QID166_2_TEXT""}","{""ImportId"":""QID166_4_TEXT""}","{""ImportId"":""QID166_5_TEXT""}","{""ImportId"":""QID166_6_TEXT""}","{""ImportId"":""QID166_8_TEXT""}","{""ImportId"":""QID166_7_TEXT""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID168_1_TEXT""}","{""ImportId"":""QID168_2""}","{""ImportId"":""QID168_2_TEXT""}","{""ImportId"":""QID168_3""}","{""ImportId"":""QID168_3_TEXT""}","{""ImportId"":""QID168_4""}","{""ImportId"":""QID168_4_TEXT""}","{""ImportId"":""QID168_5""}","{""ImportId"":""QID168_5_TEXT""}","{""ImportId"":""QID168_6""}","{""ImportId"":""QID168_6_TEXT""}","{""ImportId"":""QID168_7""}","{""ImportId"":""QID168_7_TEXT""}","{""ImportId"":""QID170""}","{""ImportId"":""QID170_1_TEXT""}","{""ImportId"":""QID170_2_TEXT""}","{""ImportId"":""QID170_4_TEXT""}","{""ImportId"":""QID170_5_TEXT""}","{""ImportId"":""QID170_6_TEXT""}","{""ImportId"":""QID170_8_TEXT""}","{""ImportId"":""QID170_7_TEXT""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID172_1_TEXT""}","{""ImportId"":""QID172_2""}","{""ImportId"":""QID172_2_TEXT""}","{""ImportId"":""QID172_3""}","{""ImportId"":""QID172_3_TEXT""}","{""ImportId"":""QID172_4""}","{""ImportId"":""QID172_4_TEXT""}","{""ImportId"":""QID172_5""}","{""ImportId"":""QID172_5_TEXT""}","{""ImportId"":""QID172_6""}","{""ImportId"":""QID172_6_TEXT""}","{""ImportId"":""QID172_7""}","{""ImportId"":""QID172_7_TEXT""}","{""ImportId"":""QID142_58""}","{""ImportId"":""QID142_58_TEXT""}","{""ImportId"":""QID142_61""}","{""ImportId"":""QID142_61_TEXT""}","{""ImportId"":""'PROLIFIC_PID'""}"
+2025-08-05 09:26:27,2025-08-05 09:46:20,IP Address,90.247.39.97,100,1193,True,2025-08-05 09:46:20,R_2LFKX3PrszYG3w1,,,,,52.4724,-1.8563,anonymous,EN,Yes,6661a447549e60aabcd72e38,"Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.",,,"The use of AI for performance analysis pose a risk of data breach, since the AI systems require personal information,  and this may include health-related data to be able to recommend accurate enhancements.",,,,,,,,,No,"There mission does not include protecting their clients from harm or data breach consequences ",,,,,,,,,"Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,AI system pose a risk of providing incorrect maintenance information,,,,,Run a risk of a complete shutdown of service if there is a failure on the 5G management agents,,,Yes,"This risk is customer-centric, which the company's mission seems to align with",,,,,,,,,Yes,"This risk is customer-centric, which the company's mission seems to align with","Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,The AI system poses a risk of predicting incorrect maintenance schedule,,,,,System failures can lead to a complete shutdown of the company's logistics,,,Yes,Misinformation will lead to poor services. which contradicts their missions,,,,,,,,,Yes,Failure in logistics will also cause poor services,No,AI chatbot,No,AI supply chain,
+2025-08-05 11:11:47,2025-08-05 13:03:48,IP Address,85.255.234.217,100,6720,True,2025-08-05 13:03:49,R_8h3fvooOmQwYXJF,,,,,51.4964,-0.1224,anonymous,EN,Yes,6776f38de0654cfa5e991b30,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI-generated designs may favour biometric data from certain demographics, excluding others.
+
+Logistics AI may deprioritize deliveries to lower-income or rural areas.
+
+Performance analysis tools may yield less accurate results for athletes from underrepresented groups.
+
+Training data biases may cause unequal recommendations in shoe fitting or training advice.","AI may suggest incorrect shoe specifications, leading to discomfort or injury.
+
+Misleading AI logistics predictions could result in stockouts or delays.
+
+Athlete performance insights may be based on inaccurate data, harming training quality.
+
+Marketing tools powered by AI may overstate product capabilities.","Personal biometric data for shoe fitting could be exposed or misused.
+
+Athlete performance data may be intercepted or leaked by third parties.
+
+Logistics systems powered by AI could be targeted in cyberattacks, revealing shipment info.
+
+Poorly secured AI models may allow inference of private customer preferences.
+
+","Attackers could manipulate AI-generated shoe designs to include defects.
+
+Hackers may exploit AI logistics systems to disrupt shipments or reroute goods.
+
+Athlete performance data could be intercepted or leaked, violating privacy and enabling targeted manipulation.
+
+Malicious actors might inject false data into training platforms to skew athlete analytics.
+
+","Designers may over-rely on AI tools, reducing creative input and oversight.
+
+Operators may trust logistics AI blindly, missing signs of delivery disruptions.
+
+Coaches may depend too heavily on performance AI, sidelining expert judgment.
+
+Overconfidence in AI-generated shoe specs may lead to user discomfort or injury.
+
+","AI-driven automation in supply chains may displace low-wage warehouse and delivery jobs.
+
+Personalized AI shoe design may centralize production, disadvantaging smaller manufacturers.
+
+Increased reliance on AI for logistics may reduce opportunities for human decision-makers in operations.
+
+Large-scale AI training for performance analytics may raise Nike's carbon footprint.","AI-driven automation in supply chains may displace low-wage warehouse and delivery jobs.
+
+Personalized AI shoe design may centralize production, disadvantaging smaller manufacturers.
+
+Increased reliance on AI for logistics may reduce opportunities for human decision-makers in operations.
+
+Large-scale AI training for performance analytics may raise Nike's carbon footprint.",Yes,Biases that exclude or disadvantage certain groups directly conflict with Nike’s mission to serve every athlete. Unequal AI outcomes undermine inclusivity and fairness in innovation and inspiration.,Yes,"Inaccurate AI outputs reduce trust and performance, which opposes Nike’s mission of delivering meaningful innovation and inspiring athletic potential for everyone.",Yes,"Security breaches and data misuse erode trust and safety, which undermines Nike’s mission to inspire and innovate for every athlete. Customers need confidence that their data is protected to fully benefit from personalized innovation.",Yes,"Malicious use of AI corrupts innovation and harms athletes, directly contradicting Nike’s goal to enhance lives through safe and reliable innovation for all.",Yes,"Overreliance on AI diminishes human creativity and judgement, undermining Nike’s mission to inspire through innovation. Unsafe or misaligned AI decisions reduce the positive impact of Nike’s athletic products.
+
+",Yes,"Job displacement, reduced inclusivity, and environmental harm contradict Nike’s commitment to reaching and uplifting every athlete. Innovation must be sustainable and broadly beneficial to align with the mission.",Yes,"Job displacement, reduced inclusivity, and environmental harm contradict Nike’s commitment to reaching and uplifting every athlete. Innovation must be sustainable and broadly beneficial to align with the mission.","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","AI tools may favour certain chip designs based on biased training data.
+
+Predictive maintenance models may underperform on machines from specific regions.
+
+5G AI management could prioritise high income areas, reducing service quality in others.
+
+Biased data may cause unequal performance in global network optimisations.
+
+","AI tools may misreport chip design performance due to flawed data.
+
+Predictive maintenance systems might give false alerts or miss real faults.
+
+AI-led 5G systems may generate incorrect network status updates.
+
+Faulty outputs may mislead engineers, causing poor technical decisions.",AI tools for cheap design may leak proprietary IP through model output. Predictive maintenance systems could be exploited to access factory sensor data.AI managed 5G network may expose sensitive user traffic to adversarial attacks. Model vulnerabilities could allow attackers to infer confidential design parameters.,"Hackers could exploit AI managed 5G systems to launch cyberattacks.
+
+AI tools for chip design may be reverse engineered to steal IP.
+
+Predictive maintenance data could be manipulated to disrupt production.
+
+Malicious actors may inject false data to degrade AI system outputs.
+
+
+
+","Engineers may over rely on AI for cheap design optimization leading to unreviewed design flaws in microarchitecture, AI systems managing 5G networks may override manual controls reducing operators ability to intervene network anomalies, Factory technicians might lose troubleshooting skills due to constant dependency on AI driven predictive maintenance alerts., Over confidence in AI led network tuning can delay response during unexpected equipment behaviour risking downtime.",AI led automation may reduce demand for skilled chip design roles. Predictive maintenance could replace factory workers increasing job loss. High energy use in AI training for 5G may raise carbon emissions. Dependency on AI tool may devalue human engineering expertise,AI in chip design may miss rare defects causing flawed chips. Predictive maintenance may misclassify failures leading to breakdowns.AI led 5G network decisions may be biased or unreliable in new regions. Lack of interpretability may hide system falls from engineers.,Yes,Biased AI outcomes undermine Qualcomm’s mission of “purposeful innovation” by excluding or disadvantaging certain groups or regions. Innovation that is not inclusive fails to enrich all lives equally and challenges the ethical use of technology.,Yes,"False or misleading AI outputs undermine Qualcomm’s goal of ""purposeful innovation"" by leading to poor decisions, reduced reliability, and diminished trust in its technology. This hinders the mission to enrich lives through accurate and dependable innovation.",Yes,"These risks threaten data confidentiality and system integrity, undermining Qualcomm’s mission of enriching lives through technology. Breaches reduce trust in innovation and compromise the safety and purposefulness of their tech solutions.",Yes,"Malicious exploitation of AI weakens Qualcomm’s commitment to purposeful innovation. Attacks that steal IP, disrupt services, or degrade output directly oppose the mission to enrich lives through secure, reliable technology.",Yes,Loss of human oversight and autonomy undermines the mission of purposeful innovation. Technology that side lines human judgement risks unsafe outcomes and limits the ability to enrich lives meaningfully.,Yes,"Job loss, skill erosion, and environmental harm challenge Qualcomm’s mission to enrich lives. Innovation that displaces workers or increases emissions undermines sustainable, purposeful progress.",Yes,"Unreliable or opaque AI systems compromise the safety and effectiveness of Qualcomm’s innovations, directly conflicting with their mission to deliver purposeful, life-enhancing technology.","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","China Electronics uses AI for predictive maintenance, cybersecurity solutions, and supply chain logistics. These tools may prioritise high-profile assets, unfairly flag certain groups, undervalue smaller vendors, or perform unequally across regions, leading to operational and equity issues.","AI used in predictive maintenance, cybersecurity, and supply chain logistics at China Electronics may misclassify faults, generate misleading threat reports, mispredict inventory levels, or produce inaccurate outputs in military systems, potentially leading to false alerts, operational disruptions, or compromised strategic decisions.","China Electronics uses AI for predictive maintenance, cybersecurity, and supply chain logistics. Predictive maintenance systems may expose sensitive equipment data through insecure logging. Cybersecurity AI could be vulnerable to adversarial attacks, leading to system breaches. Additionally, logistics AI may leak critical supplier data, while AI behaviour patterns could unintentionally reveal military information to malicious actors.","China Electronics employs AI in maintenance, cybersecurity, and logistics operations. Increased automation may reduce employment opportunities, especially in logistics and support roles. AI driven centralization could marginalize smaller suppliers and concentrate decision making power. Additionally, the energy demands of AI systems may increase the company's environmental footprint.","China Electronics uses AI for predictive maintenance, cybersecurity, and supply chain logistics. Employees may become overly reliant on AI systems, reducing human oversight in critical operations. Operators might fail to question AI-generated maintenance or logistics decisions, even when flawed. This loss of human agency can lead to delayed responses, operational risks, and reduced accountability.","China Electronics employs AI in maintenance, cybersecurity, and logistics operations. Increased automation may reduce employment opportunities, especially in logistics and support roles. AI driven centralization could marginalize smaller suppliers and concentrate decision making power. Additionally, the energy demands of AI systems may increase the company's environmental footprint.
+","AI used in predictive maintenance may misidentify faults due to limited robustness, leading to unnecessary or missed repairs. Cybersecurity AI might lack transparency, making it difficult for human operators to understand or verify decisions. In logistics, AI systems may behave unpredictably when facing new or complex scenarios, creating operational risks. Uncontrolled AI behaviour in military applications could result in actions misaligned with human oversight or intent.",Yes,"The identified risks such as prioritising high profile assets, unfairly flagging user groups, undervaluing smaller vendors, and inconsistent system performance undermine equitable technology distribution and inclusive access. These outcomes contradict China Electronics’ mission of ""Linking to a Happy World"" as systemic inequities and biased AI deployments can result in dissatisfaction, exclusion, and reduced trust among stakeholders. If certain groups or regions are marginalised or underserved, it challenges the company's goal of fostering global connectivity and collective well being through its technologies.",Yes,"The identified risks such as prioritising high profile assets, unfairly flagging user groups, undervaluing smaller vendors, and inconsistent system performance undermine equitable technology distribution and inclusive access. These outcomes contradict China Electronics’ mission of ""Linking to a Happy World"" as systemic inequities and biased AI deployments can result in dissatisfaction, exclusion, and reduced trust among stakeholders. If certain groups or regions are marginalised or underserved, it challenges the company's goal of fostering global connectivity and collective well-being through its technologies.",Yes,"Leaks of sensitive equipment or supplier data and exposure to cyberattacks jeopardize both national and commercial security. Such privacy breaches threaten the ""Cyber Power"" aspect of the mission by weakening digital sovereignty and technological trust. Furthermore, if military information is inferred or exploited, it contradicts the goal of contributing to a ""Happy World"" by introducing risks to safety and international",Yes,"Risks such as job displacement, decision-making centralization, and environmental harm undermine the mission of ""Linking to a Happy World"" by reducing social equity, economic opportunity, and sustainability. Furthermore, if malicious actors exploit these vulnerabilities, such as energy strain or centralised control, the security goals behind ""Building a Cyber Power"" may also be compromised.",Yes,"Overreliance on AI and reduced human oversight can result in delayed or flawed decisions in critical operations. This challenges the mission of ""Building a Cyber Power"" by weakening system resilience and reliability. It also contradicts the goal of ""Linking to a Happy World"" as operational failures can cause societal harm and erode trust in AI-enhanced systems.",Yes,"These risks reduce equity, opportunity, and sustainability, conflicting with the goal of ""Linking to a Happy World."" Centralized decision making and job loss undermine inclusion, while high energy use harms the environment.",Yes,"AI used in predictive maintenance may misidentify faults due to limited robustness, leading to unnecessary or missed repairs. Cybersecurity AI might lack transparency, making it difficult for human operators to understand or verify decisions. In logistics, AI systems may behave unpredictably when facing new or complex scenarios, creating operational risks. Uncontrolled AI behaviour in military applications could result in actions misaligned with human oversight or intent.",No,AI chatbot,No,AI supply chain,
+2025-08-06 02:00:56,2025-08-06 02:34:08,IP Address,92.40.47.100,100,1992,True,2025-08-06 02:34:09,R_8wiBfa7F4TRIBQt,,,,,54.9735,-1.5673,anonymous,EN,Yes,6766d0e8525bc0623d301057,"Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.",,,,,"The Adoption of AI may be ok, but the over use in a fashion sector might affect the creativity of people in this industry and hence leading to an undesirable outcome.
+While the use of AI is a welcome development, reliance on it will affect the workforce and some will loose jobs ",,,,,,,,,,,Yes,"If inspiration and innovation is what Nike strikes for, humans needs to be core of everything and AI only for task that are mundane.",,,,,"AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,,,,,"The imperfections of Ai and lack of accuracy can impact the performance and functionality of the system and its design.
+Any issue arising from interoperability due to the AI pursuing its own goal can cost the company hugely ",,,,,,,,,,,,,No,"They just need more checks and balances to keep things optimal ","Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.",,,"The use of AI in the development of military equipment can be very risky with security concerns around accuracy. The AI as we know is still growing, the LLM is still being trained, transforming and putting such in charge of Military devices and equipment can have a huge negative security effect.
+
+The Use of AI  cab also undermine the privacy of other equipment designs. When you give access to AI to access all of these","This can also still be classified as security, the use of AI on country’s defence systems or and equipment can go in flames if hacked by a malicious attacker and because of the nature of the AI and the fact that it keeps learning, it might take time to realise that someone has entered into it.
+
+",,,,,,,,No,"AI might actually help in the rapid growth of the Cybersecurity ecosystem, while it’s not entirely safe, the pros outweigh the cons ",No,"The core of the mission means that measures are in place to counter attackers ",,,,,,,,"NO
+Pollution of information ecosystem and loss of consensus reality. ",,"No
+Disinformation, surveillance, and influence at scale.",

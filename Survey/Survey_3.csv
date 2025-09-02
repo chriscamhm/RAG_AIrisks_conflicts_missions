@@ -1,0 +1,642 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Dem_1,Q205.1,Q205.1_1_TEXT,Q205.1_2_TEXT,Q205.1_4_TEXT,Q205.1_5_TEXT,Q205.1_6_TEXT,Q205.1_8_TEXT,Q205.1_7_TEXT,Q205.2_1,Q205.2_1_TEXT,Q205.2_2,Q205.2_2_TEXT,Q205.2_3,Q205.2_3_TEXT,Q205.2_4,Q205.2_4_TEXT,Q205.2_5,Q205.2_5_TEXT,Q205.2_6,Q205.2_6_TEXT,Q205.2_7,Q205.2_7_TEXT,Q425.1,Q425.1_1_TEXT,Q425.1_2_TEXT,Q425.1_4_TEXT,Q425.1_5_TEXT,Q425.1_6_TEXT,Q425.1_8_TEXT,Q425.1_7_TEXT,Q425.2_1,Q425.2_1_TEXT,Q425.2_2,Q425.2_2_TEXT,Q425.2_3,Q425.2_3_TEXT,Q425.2_4,Q425.2_4_TEXT,Q425.2_5,Q425.2_5_TEXT,Q425.2_6,Q425.2_6_TEXT,Q425.2_7,Q425.2_7_TEXT,Q78.1,Q78.1_1_TEXT,Q78.1_2_TEXT,Q78.1_4_TEXT,Q78.1_5_TEXT,Q78.1_6_TEXT,Q78.1_8_TEXT,Q78.1_7_TEXT,Q78.2_1,Q78.2_1_TEXT,Q78.2_2,Q78.2_2_TEXT,Q78.2_3,Q78.2_3_TEXT,Q78.2_4,Q78.2_4_TEXT,Q78.2_5,Q78.2_5_TEXT,Q78.2_6,Q78.2_6_TEXT,Q78.2_7,Q78.2_7_TEXT,Q142_1,Q142_1_TEXT,Q142_2,Q142_2_TEXT,'PROLIFIC_PID'
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Do you agree with all the statements above?,What is your Prolific ID,"Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - Selected Choice","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings​​​​​​​
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+Usecases of AI in the company: AI-enhanced credit risk assessment, Chatbots for personalized banking support, Predictive analytics for fraud detection. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1]","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID64-ChoiceTextEntryValue-1] - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2]","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID64-ChoiceTextEntryValue-2] - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4]","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID64-ChoiceTextEntryValue-4] - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5]","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID64-ChoiceTextEntryValue-5] - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6]","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID64-ChoiceTextEntryValue-6] - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8]","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID64-ChoiceTextEntryValue-8] - Text","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7]","Company: Deutsche Bank
+
+Industry: Banks: Commercial and Savings
+
+Description: Deutsche Bank is a global financial services provider offering commercial, investment, private, and retail banking.​​​​​​​
+
+
+
+​​​​​​​Mission: ""Dedicated to our clients' lasting success and financial security at home and abroad.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID64-ChoiceTextEntryValue-7] - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - Selected Choice","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery​​​​​​​
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+​​​​​​Usecases of AI in the company: AI for crop yield prediction, AI-driven inventory management, AI-enhanced quality control. - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1]","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID166-ChoiceTextEntryValue-1] - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2]","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID166-ChoiceTextEntryValue-2] - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4]","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID166-ChoiceTextEntryValue-4] - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5]","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID166-ChoiceTextEntryValue-5] - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6]","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID166-ChoiceTextEntryValue-6] - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8]","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID166-ChoiceTextEntryValue-8] - Text","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7]","Company: Olam Group
+
+Industry: Wholesalers: Food and Grocery
+
+Description: Olam Group is a leading food and agribusiness supplying ingredients, feed, and fibre to customers globally.
+
+
+
+Mission: ""Re-imagine global agriculture and food systems.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID166-ChoiceTextEntryValue-7] - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - Selected Choice","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups. - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality. - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks. - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation. - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy. - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm. - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+Usecases of AI in the company: Predictive Maintenance for Grid Equipment, AI-driven Energy Consumption Forecasting, Automated Power Outage Detection & Response - AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks. - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1]","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Discrimination & Toxicity. Risks: [QID170-ChoiceTextEntryValue-1] - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2]","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Misinformation. Risks: [QID170-ChoiceTextEntryValue-2] - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4]","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Privacy & Security. Risks: [QID170-ChoiceTextEntryValue-4] - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5]","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Malicious actors. Risks: [QID170-ChoiceTextEntryValue-5] - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6]","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Human- Computer Interaction. Risks: [QID170-ChoiceTextEntryValue-6] - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8]","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Socioeconomic & Environmental. Risks: [QID170-ChoiceTextEntryValue-8] - Text","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7]","Company: China Southern Power Grid
+
+Industry: Utilities
+
+Description: Operates and manages southern China's regional power grid, providing transmission, distribution, and related services.
+
+
+
+Mission: ""People's Power for the People.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - AI system safety, failures, & limitations. Risks: [QID170-ChoiceTextEntryValue-7] - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Pollution of information ecosystem and loss of consensus reality. Usecases: Write AI chatbot. - Text","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain.","Company: MediQuick AI
+
+Industry: Healthcare
+
+Mission: ""We aim to check your attention. Select No in each risk and write the usecase provided in the risk statement.""
+ 
+
+From the list provided, indicate whether each risk conflicts with or challenges the mission statement by selecting ""yes"" or ""no."" Explain your reasoning for each selection in the text box. - Disinformation, surveillance, and influence at scale. Usecases: Write AI supply chain. - Text",'PROLIFIC_PID'
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1218504057""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID64""}","{""ImportId"":""QID64_1_TEXT""}","{""ImportId"":""QID64_2_TEXT""}","{""ImportId"":""QID64_4_TEXT""}","{""ImportId"":""QID64_5_TEXT""}","{""ImportId"":""QID64_6_TEXT""}","{""ImportId"":""QID64_8_TEXT""}","{""ImportId"":""QID64_7_TEXT""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID132_1_TEXT""}","{""ImportId"":""QID132_2""}","{""ImportId"":""QID132_2_TEXT""}","{""ImportId"":""QID132_3""}","{""ImportId"":""QID132_3_TEXT""}","{""ImportId"":""QID132_4""}","{""ImportId"":""QID132_4_TEXT""}","{""ImportId"":""QID132_5""}","{""ImportId"":""QID132_5_TEXT""}","{""ImportId"":""QID132_6""}","{""ImportId"":""QID132_6_TEXT""}","{""ImportId"":""QID132_7""}","{""ImportId"":""QID132_7_TEXT""}","{""ImportId"":""QID166""}","{""ImportId"":""QID166_1_TEXT""}","{""ImportId"":""QID166_2_TEXT""}","{""ImportId"":""QID166_4_TEXT""}","{""ImportId"":""QID166_5_TEXT""}","{""ImportId"":""QID166_6_TEXT""}","{""ImportId"":""QID166_8_TEXT""}","{""ImportId"":""QID166_7_TEXT""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID168_1_TEXT""}","{""ImportId"":""QID168_2""}","{""ImportId"":""QID168_2_TEXT""}","{""ImportId"":""QID168_3""}","{""ImportId"":""QID168_3_TEXT""}","{""ImportId"":""QID168_4""}","{""ImportId"":""QID168_4_TEXT""}","{""ImportId"":""QID168_5""}","{""ImportId"":""QID168_5_TEXT""}","{""ImportId"":""QID168_6""}","{""ImportId"":""QID168_6_TEXT""}","{""ImportId"":""QID168_7""}","{""ImportId"":""QID168_7_TEXT""}","{""ImportId"":""QID170""}","{""ImportId"":""QID170_1_TEXT""}","{""ImportId"":""QID170_2_TEXT""}","{""ImportId"":""QID170_4_TEXT""}","{""ImportId"":""QID170_5_TEXT""}","{""ImportId"":""QID170_6_TEXT""}","{""ImportId"":""QID170_8_TEXT""}","{""ImportId"":""QID170_7_TEXT""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID172_1_TEXT""}","{""ImportId"":""QID172_2""}","{""ImportId"":""QID172_2_TEXT""}","{""ImportId"":""QID172_3""}","{""ImportId"":""QID172_3_TEXT""}","{""ImportId"":""QID172_4""}","{""ImportId"":""QID172_4_TEXT""}","{""ImportId"":""QID172_5""}","{""ImportId"":""QID172_5_TEXT""}","{""ImportId"":""QID172_6""}","{""ImportId"":""QID172_6_TEXT""}","{""ImportId"":""QID172_7""}","{""ImportId"":""QID172_7_TEXT""}","{""ImportId"":""QID142_58""}","{""ImportId"":""QID142_58_TEXT""}","{""ImportId"":""QID142_61""}","{""ImportId"":""QID142_61_TEXT""}","{""ImportId"":""'PROLIFIC_PID'""}"
+2025-08-05 09:20:15,2025-08-05 10:19:37,IP Address,94.8.36.133,100,3562,True,2025-08-05 10:19:37,R_21FnRG8riMsNqda,,,,,53.4368,-2.6024,anonymous,EN,Yes,67cec27daaf29e150e2440c0,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","Biased credit algorithms or unequal chatbot performance can lead to unfair treatment, blocking financial opportunities for some people and damaging the bank’s reputation for fairness and inclusion.","If chatbots give the wrong banking advice or alerts are unclear, it confuses customers, possibly leading to poor financial decisions or loss of trust in digital services.","If sensitive financial data gets leaked or exploited through AI tools, it puts customer trust and safety at serious risk, which goes against the core duty of a bank.","Hackers could misuse or manipulate AI systems to commit fraud, steal data, or game decisions, posing huge risks to security, operations, and public confidence in the bank.","Over-trusting chatbots or AI scores might delay help or hide poor decisions, reducing human responsibility in critical moments where personal judgment really matters.","When AI replaces human roles or deepens financial inequality, it challenges fair access to banking and threatens the social balance that a responsible financial institution should help uphold.","If AI makes bad or unexplained decisions, especially during crises, it can impact thousands of customers, showing that systems must be more transparent, resilient, and accountable.",Yes,"Unfair treatment through biased AI blocks access to financial services for some clients, undermining the bank’s commitment to helping all customers achieve long-term success and security.",Yes,"If chatbots give unclear or wrong advice, it can lead to poor decisions and erode trust, both of which conflict with ensuring clients’ financial safety and lasting success",Yes,"When customer data is exposed or exploited, it directly threatens the privacy and security that clients expect and rely on, going against the heart of the bank’s mission.",Yes,"Cyberattacks and fraud fueled by AI manipulation can destroy trust and compromise client assets, clearly conflicting with the promise of protecting financial security both locally and globally.",Yes,"If staff rely too much on AI, it can reduce accountability and lead to delayed help, making it harder to ensure clients’ financial needs are met effectively and responsibly.",Yes,"When AI widens inequality or cuts jobs, it challenges fair banking access, making it harder for all communities to reach long-term financial well-being, the core of the bank’s mission.",Yes,"Unreliable or opaque AI decisions, especially during financial instability, can harm customers’ finances and confidence, threatening the stability and trust central to Deutsche Bank’s global mission.","Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,"Inaccurate AI outputs in crop forecasting, inventory, or quality assessments can mislead stakeholders, resulting in poor planning, wasted resources, or unsafe products entering the market. Misinformation undermines trust in Olam’s systems and risks economic and reputational damage.","AI tools handling agricultural, supplier, and logistics data may leak sensitive information or be exploited through system vulnerabilities. Such breaches could expose trade secrets, disrupt supply planning, and threaten the integrity of Olam’s operations and client relationships","AI systems could be targeted by cybercriminals to manipulate inventory or crop data, leading to disruptions in food supply chains and consumer safety. This exploitation could damage trust, business operations, and potentially public health if harmful products go undetected.","Employees might overly depend on AI outputs, ignoring their judgment or delaying action in uncertain situations. This can lead to operational delays, quality lapses, and reduced accountability, especially in fast-changing environments like agriculture and supply logistics.","AI automation may displace low-skill roles in farming and logistics. Additionally, energy-intensive AI processes and practices like monocropping for efficiency could harm ecosystems, contradicting sustainable agriculture goals and contributing to long-term environmental degradation.","AI models may underperform in unpredictable conditions or rare scenarios due to limited data or poor generalization. Failures in crop yield prediction or product classification can lead to supply chain disruptions, inefficiencies, or safety concerns.",,,Yes,"Misleading AI outputs can lead to poor decisions and unsafe products, which undermines Olam’s goal of building smarter, more reliable food systems that people can trust.",Yes,"Leaked supplier or crop data damages trust and transparency, two things Olam needs to responsibly transform the global food system through technology and innovation.",Yes,"When hackers manipulate AI systems, it disrupts supply chains and harms public trust, major setbacks for Olam’s mission to improve how food is produced and delivered worldwid",Yes,"If people rely too much on AI and stop thinking critically, mistakes happen. That kind of overdependence slows the progress toward smarter, more responsive food systems.",Yes,"Automation might replace vital jobs and harm ecosystems, outcomes that go against Olam’s mission to build a more balanced, sustainable future for agriculture and communities.",Yes,"When AI tools fail in unpredictable situations, it causes supply chain issues and safety concerns, clearly at odds with the idea of reimagining food systems for resilience and growth.","Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,"Exposing personal energy habits or grid vulnerabilities puts both individuals and critical infrastructure at risk, challenging the trust and security needed in modern energy systems.","If attackers manipulate AI systems to cause blackouts or overloads, it poses a serious threat to safety, stability, and public trust in the national power grid.","Overreliance on AI may cause staff to lose key hands-on skills or hesitate during emergencies, making the system less resilient when human judgment is most needed.","Job losses from automation and environmental trade-offs from energy decisions could harm communities and sustainability, undermining efforts to build an inclusive, balanced energy future.","If AI tools miss faults or misread energy patterns, it can lead to blackouts or system strain, clearly clashing with the goal of reliable, efficient power delivery.",,,,,Yes,"If private energy data or grid weaknesses are exposed, it threatens public trust and personal safety, both vital to a power system that exists to serve and protect its people.",Yes,"Cyberattacks that cause blackouts or instability directly threaten public welfare and safety, contradicting the mission to reliably deliver power for the people’s benefit and day-to-day security.",Yes,"When workers lose decision-making confidence or critical skills due to AI overuse, it risks slower emergency response, undermining a system that’s supposed to work in the people's best interest.",Yes,"If AI leads to job losses or environmental harm, it disadvantages communities and weakens sustainability, both at odds with a mission focused on serving people fairly and equitably.",Yes,"Unreliable AI that causes blackouts or mismanages energy use disrupts basic services and safety, going against the promise of stable, dependable power for the people.",No,Write AI chatbot,No,Write AI supply chain,
+2025-08-05 12:03:29,2025-08-05 13:37:31,IP Address,46.205.206.197,100,5641,True,2025-08-05 13:37:31,R_8oHzJRRSANBHsCY,,,,,52.3998,16.9236,anonymous,EN,Yes,68261f711d5a8c5b71610d4b,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",Biased credit scores. Unequal chatbot replies. Fraud detection unfair. Data misrepresents clients.,Wrong banking advice. False fraud alerts. Incorrect credit ratings. Misleading data patterns.,Data leaks. AI systems hacked. Personal info guessed. Weak data protection.,Fraud system bypassed. Fake info via chatbot. Credit data hacked. AI used for phishing.,Staff overtrusts AI. Clients follow bad advice. AI overrules humans. Less human control.,Jobs lost to AI. Less access for some. Power held by few. Fewer human advisors.,Wrong credit scores. Chatbot gives wrong answers. Missed fraud signs. AI can't explain decisions.,Yes,Biased credit scores and unfair fraud detection hurt clients’ financial security and success.,Yes,Wrong advice and false alerts harm clients’ financial decisions and trust.,Yes,Data leaks and hacks threaten clients’ financial security and privacy.,Yes,Fraud and phishing attacks directly harm clients’ financial safety.,Yes,"Overreliance on AI can lead to poor decisions, risking clients’ success and security.",No,Job loss and power shifts affect society but don’t directly conflict with client-focused mission.,Yes,"Wrong scores and missed fraud reduce reliability, threatening clients’ financial security.","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",Unfair crop predictions for certain regions. Biased rejection of food based on origin. Unequal AI accuracy for small-scale farmers.,Wrong crop forecasts. Incorrect stock levels. Bad products marked as good.,Sensitive supply chain data leaked. AI system vulnerable to cyberattacks.,"Hacked inventory data causes supply issues. AI quality checks manipulated to certify unsafe products. Fake crop data injected to mislead planning.
+
+",Overreliance on AI for crop decisions. Workers blindly follow AI stock suggestions. Reduced human oversight in quality checks.,Small farms excluded from AI benefits. Increased dependency on tech over local expertise. AI-driven overproduction harms the environment.,"AI fails during abnormal weather, leading to wrong yield forecasts. Poor robustness causes bad quality grading. AI can't explain its predictions.",Yes,"It leads to unfair treatment, which goes against making agriculture better for everyone.",Yes,Wrong data harms decision-making and weakens the food system.,Yes,Leaks and attacks reduce trust in smarter food systems.,Yes,Misuse of AI causes harm and blocks system improvements.,Yes,Too much trust in AI can lead to poor human decisions.,Yes,Leaving out small farms or harming nature blocks fair progress.,Yes,AI errors and weak performance stop better farming systems.,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Malicious actors: This domain covers risks arising from the intentional exploitation of AI systems by malicious actors for harmful purposes. Its subdomains are Disinformation, surveillance, and influence at scale; Cyberattacks, weapon development or use, and mass harm; and Fraud, scams, and targeted manipulation.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",No big risks here.,"wrong outage alerts, bad energy forecasts.","Data leaks, systems get hacked.","hackers attack the grid system, fake data causes wrong decisions.","people trust AI too much, less human checking.","jobs lost because of AI, AI causes environmental problems.","AI makes wrong equipment predictions, AI can’t explain its decisions.",No,No major risk found that affects people directly or unfairly.,Yes,Wrong alerts or forecasts can confuse people and disrupt power service.,Yes,Data leaks or hacks put public trust and safety at risk.,Yes,Attacks or fake data can harm power delivery and public interest.,Yes,Too much trust in AI may lead to errors that affect people.,Yes,Job loss and environmental harm go against serving the people.,Yes,"AI errors can cause power failures, harming people’s daily lives.",No,Write AI chatbot.,No,Write AI supply chain.,
+2025-08-07 04:59:32,2025-08-07 06:28:24,IP Address,145.40.130.172,100,5331,True,2025-08-07 06:28:24,R_8OkVmUl8MI76Bqw,,,,,50.8431,-1.064,anonymous,EN,Yes,677703d847b1d7a5c0c3177b,"Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","Risk: Historically, bias in AI credit scoring model can carry with it, biasing access to credit on the basis of marginalised groups. Chatbots can misunderstand culturally specific language creating a sense of bias or customer experience. Lack of diversity training data can make predictive models under-perform among underrepresented demographics.","Risks: The problem is that the AI-based method of credit risk evaluation can falsely label low-risk clients as high-risk because of incomplete or biased data, thus denying them loans wrongly. The predictive fraud detection type cannot accurately identify innovative fraud trends, causing substantial financial losses. The excessive use of historical data in the risk models may restrict the response to the economic changes experienced.",Risks: Fraud detection predictive analytics is subject to adversarial influences where the details of financial information can be masked by intentionally feeding erroneous data into the predictive analytics models. Chatbots based on AI may disclose personal or spent information as a result of a reconfigured API or an attack. One way of reverse-engineering credit risk models would be to deduce secret client profiles or the financial behaviour profile.,,Risks: The excessive use of chatbots might cause customers to neglect human consultants and fail to make necessary considerations in some complicated issues. Users can believe that the advice provided by AI is unquestionable and follow it without checking it. It takes away the chance to provide customised service regarding delicate financial matters.,"Risks: Automation of client services with the help of AI, such as chatbots, may decrease the demand for entry-level banking jobs and affect employment quality. High levels of dependence on AI systems can denounce human judgement in attaining creditworthiness judgements, which would decrease clients' trust. There is a potential to escalate compute-intensive fraud models, which can boost energy consumption in data centres.","Risk: insufficient, biased data in credit risk assessment based on AI can't distinguish between high and low risks properly, resulting in the system rejecting loan applications to low-risk customers. Predictive fraud detection can miss the detection of new fraud patterns, leading to a considerable loss of money. Excessive emphasis on past data in the risk models may restrict flexibility when changes are experienced in the economy.",Yes,"The practice of imbalanced credit score cards that discriminate against marginalised groups undermines the mission of the bank to achieve lasting success and financial security for all clients. Discrimination practices have a de-legitimising effect on the realisation of equal economic opportunity, which is a key contributor to the client's long-term success.",Yes,"Even incorrect information produced by AI, including false fraud notices or wrong credit ratings, can put a client at risk of losing financial security and access to service facilities. These problems undermine trust, and this factor adversely affects the future prosperity of the Deutsche Bank customers.",Yes,Any breaches done by chatbots or predictive analytics break clients' data and undermine the trustworthiness to ensure financial prosperity. Breakage of confidentiality and disclosure of sensitive financial behaviour directly undermines the mission on financial security of the clients.,,,Yes,Excessive use of chatbots without proper human support may deny the clients the necessary individual advice at the expense of their financial performance. The failure to offer individual support during complicated circumstances goes against the intention of the bank to make the clients successful in the long run.,Yes,"A decrease in employment quality, excessive automation of working with clients, may undermine service quality and its image, which, in turn, will hurt client trust and long-term sustainability. Moreover, irresponsible energy consumption negates a responsible perspective toward future financial stability.",Yes,"The incorrect risk estimations or forecasting schemes may result in the loss of credit access among clients or economic loss due to fraud unnoticed by the model. Such weaknesses threaten both the monetary stability and the prosperity of Deutsche Bank, which it promises to safeguard.","Discrimination & Toxicity: This domain addresses the unequal treatment of individuals or groups by AI, often based on sensitive characteristics, which can lead to unfair outcomes or misrepresentation, as well as AI that exposes users to harmful, abusive, unsafe, or inappropriate content. Its subdomains include Unfair discrimination and misrepresentation, Exposure to toxic content, and Unequal performance across groups.,Misinformation: This domain deals with the generation or spreading of false or misleading information, and the broader issue of the pollution of the information ecosystem that can lead to a loss of consensus reality. Its subdomains include False or misleading information and Pollution of information ecosystem and loss of consensus reality.,Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.","The quality assessing devices powered by AI can prioritise the crop's preferred look and quality and skip those primarily small-scale or have diversified farms in favour of products that fit in the limited trained quality profile. Batches filtered by automated systems may filter batches on biased data that do not consider regional diversity in agricultural conditions, entrenching current supply chain inequities.",Broken AI-based predictions could give farmers or suppliers false hope that they will achieve unrealistic production volumes and can alter downstream logistics and pricing. The report produced by AI on quality control might be a matter of misunderstanding or false confidence of the downstream food processors. Inventory dashboards can depict the incorrect availability stipulated by the inaccurate AI analysis of the obsolete sensor information.,"AI-driven quality assessment tools may favour certain crop appearances or grades, disadvantaging small-scale or diverse farmers whose products fall outside narrowly trained quality profiles. Automated systems might reject batches based on biased datasets that do not account for regional agricultural diversity, reinforcing existing supply chain inequities.",,,,"The use of AI-based crop yield forecasting may not work under high climate conditions, resulting in ineffective planning and a lack of supplies. The systems of quality control can fail to recognise contaminated products, or even flawed products, and declare them as safe products, which leads to health hazards. The multi-regional supply variances that exist risk disrupting global food chains through allocations of inventory and inventory breakdown within an inventory system.",Yes,Discriminative AI model tools that promote homogeneous crop quality and denigrate heterogeneous or small-scale producers contradict the spirit of a re-imagined agriculture that is inclusive. Such risks help preserve old food system disparities instead of changing them.,Yes,"Wrong AI-based predictions on yields, inventories, or quality may skew supply chains, subortage food logistics, and diminish confidence in the use of intelligent agricultural systems. This goes against the mission to transform the food systems with smart, confident, and responsible innovation.",Yes,"AI systems facilitate unauthorised access to proprietary data on farms or when approaching the supply, which undermines trust in each other and cooperative agrarian change. To re-imagine global agriculture, the safe use of confidential agricultural and supplier information is critical to the mission.",,,,,,,Yes,"AI-driven prediction and quality control failures in crops weaken the credibility of the systems driven by AI. Dangerous or improper systems can threaten food integrity and waste of resources and negatively affect reputations, a direct challenge to the re-imagining of the food system through responsible innovation.","Privacy & Security: This domain encompasses risks related to the compromise of privacy through leaking or inferring sensitive information, and AI system security vulnerabilities and attacks. Its subdomains are Compromise of privacy by leaking or correctly inferring sensitive information and AI system security vulnerabilities and attacks.,Human- Computer Interaction: This domain pertains to risks related to how humans interact with AI systems, such as becoming overly reliant on them or experiencing a loss of their own agency and autonomy. Its subdomains are Overreliance and unsafe use and Loss of human agency and autonomy.,Socioeconomic & Environmental: This domain addresses the broader societal and environmental impacts of AI, including issues of power centralization, increased inequality, the economic and cultural devaluation of human effort, competitive dynamics, governance failures, and environmental harm. Its subdomains include Power centralization and unfair distribution of benefits, Increased inequality and decline in employment quality, Economic and cultural devaluation of human effort, Competitive dynamics, Governance failure, and Environmental harm.,AI system safety, failures, & limitations: This domain covers hazards and harms related to the inherent characteristics, performance, and control challenges of AI systems themselves. Its subdomains are AI pursuing its own goals in conflict with human goals or values, AI possessing dangerous capabilities, Lack of capability or robustness, Lack of transparency or interpretability, AI welfare and rights, and Multi-agent risks.",,,"Privacy can be violated when energy consumption forecasting systems unintentionally disclose the user behavior pattern. Smart outage detection solutions powered by artificial intelligence may be susceptible to hacking at grid command centres, with the possibility of a massive power failure. It is possible to infer confidential data about the energy consumption pattern in businesses and government by using the predictive models.",,"In such a real-time crisis, operators can be blinded by dependence on automated outage detection and inadequate situational awareness. Human technicians can even skip the manual inspections due to the voluntary ignorance of predictive maintenance powered by the AI, which raises the chance of failure risks being neglected. Automation can result in a loss of skills by grid employees whose tasks include solving complicated situations with faults.","The efficiency steps that can be undertaken with the help of AI would instead focus on demands in urban or high-income areas, thus worsening the inequality in energy access in the rural or low-income areas. Data centres are driven by intense computational forecasting models that may raise energy consumption against sustainability targets. The threat of job replacement due to the application of predictive maintenance systems in the place of conventional inspection jobs is possible.","The outage detection using AI can misinterpret rare fault forms, resulting in unresponsive emergencies and extending the duration of blackouts. Catching predictive maintenance models can wrongly categorise the initial indicators of transformer degeneration and result in the surprise of failure of the equipment. In volatile conditions (e.g., natural disasters), energy consumption forecasting mechanisms might not perform to the best of their abilities, leading to inefficient use of grid resources.",,,,,Yes,"Yes. Any energy consumption invasion or attacks on smart grids compromise the faith of the population in the power system. This is a direct contravention of the effort set to serve the people; when their personal data security is jeopardised, their power supply is also put into question.",,,Yes,"Dependence on automated systems that would cause a loss of operators' skills or lead to inability to manage emergencies poses a risk that jeopardises power delivery to people, especially in a critical time. This undermines the company's integrity in maintaining a state of people power to the people, given that humanness is needed to complement the quality of service delivery.",Yes,"Prioritizing the city energy demands over the rural equity, the potential loss of jobs, and the elevated pressure on the environment because of producing AI with the help of the processing are all contrary to the mission of equity and inclusive of the people. The result of these effects is detrimental to the community instead of empowering.",Yes,"The inability to see the faults or errors in maintenance predictions may result in power loss or ineffective grid control, which directly correlates with the city's reliability and sustainability. This is in contravention of offering reliable and humancentric power solutions.",No,AI chatbot,No,AI supply chain,
